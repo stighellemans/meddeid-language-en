@@ -183,7 +183,7 @@ def _download(url: str) -> bytes:
     request = urllib.request.Request(
         url,
         headers={
-            "User-Agent": "meddeid-language-en-resource-builder/0.1 (+https://github.com/stighellemans/meddeid-language-en)"
+            "User-Agent": "meddeid-language-en-resource-builder/0.2 (+https://github.com/stighellemans/meddeid-language-en)"
         },
     )
     with urllib.request.urlopen(request, timeout=120) as response:

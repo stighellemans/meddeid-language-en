@@ -26,7 +26,7 @@ locale-correct full-year representations.
 this package and pin both ordinary profiles in one workspace:
 
 ```bash
-npm install --no-save @meddeid/language-en@0.1.0
+npm install --no-save @meddeid/language-en@0.2.0
 npm run profile -- set en-GB en-US
 ```
 
