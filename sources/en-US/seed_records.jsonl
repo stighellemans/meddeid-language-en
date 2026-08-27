@@ -1,0 +1,203 @@
+{"category":"first_names","value":"Olivia","weight":1.0,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Emma","weight":0.98,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Charlotte","weight":0.96,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Amelia","weight":0.94,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Sophia","weight":0.92,"regions":["United States","Puerto Rico"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Isabella","weight":0.9,"regions":["United States","Puerto Rico"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Mia","weight":0.88,"regions":["United States","Puerto Rico"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Camila","weight":0.84,"regions":["United States","Puerto Rico"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Aaliyah","weight":0.8,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Leilani","weight":0.74,"regions":["United States","Guam","American Samoa"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"María","weight":0.72,"regions":["Puerto Rico","U.S. Virgin Islands"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Ana","weight":0.7,"regions":["Puerto Rico","Guam","Northern Mariana Islands"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Liam","weight":1.0,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Noah","weight":0.98,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Oliver","weight":0.95,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Theodore","weight":0.93,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"James","weight":0.91,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Mateo","weight":0.88,"regions":["United States","Puerto Rico"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Elijah","weight":0.86,"regions":["United States"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Lucas","weight":0.84,"regions":["United States","Puerto Rico"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Ethan","weight":0.82,"regions":["United States","Guam"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"José","weight":0.76,"regions":["Puerto Rico","U.S. Virgin Islands"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Juan","weight":0.74,"regions":["Puerto Rico"],"source_ids":["ssa-baby-names"]}
+{"category":"first_names","value":"Tasi","weight":0.65,"regions":["American Samoa"],"source_ids":["ssa-baby-names"]}
+{"category":"family_names","value":"Smith","weight":1.0,"regions":["United States"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Johnson","weight":0.98,"regions":["United States"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Williams","weight":0.96,"regions":["United States"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Brown","weight":0.94,"regions":["United States"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Jones","weight":0.92,"regions":["United States"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Garcia","weight":0.9,"regions":["United States","Puerto Rico"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Miller","weight":0.88,"regions":["United States"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Davis","weight":0.86,"regions":["United States"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Rodriguez","weight":0.84,"regions":["United States","Puerto Rico"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Martinez","weight":0.82,"regions":["United States","Puerto Rico"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Hernandez","weight":0.8,"regions":["United States","Puerto Rico"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Lopez","weight":0.78,"regions":["United States","Puerto Rico"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Gonzalez","weight":0.76,"regions":["United States","Puerto Rico"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Wilson","weight":0.74,"regions":["United States"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Anderson","weight":0.72,"regions":["United States"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Thomas","weight":0.7,"regions":["United States","U.S. Virgin Islands"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Lee","weight":0.68,"regions":["United States","Guam","Northern Mariana Islands"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Chen","weight":0.66,"regions":["United States","Guam"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Nguyen","weight":0.65,"regions":["United States"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Cruz","weight":0.64,"regions":["Puerto Rico","Guam","Northern Mariana Islands"],"source_ids":["census-2010-surnames"]}
+{"category":"family_names","value":"Santos","weight":0.62,"regions":["Puerto Rico","Guam","Northern Mariana Islands"],"source_ids":["census-2010-surnames"]}
+{"category":"prefixes","value":"Mr","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"prefixes","value":"Mrs","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"prefixes","value":"Ms","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"prefixes","value":"Miss","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"prefixes","value":"Mx","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"prefixes","value":"Dr","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"prefixes","value":"Professor","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"prefixes","value":"Rev","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"name_suffixes","value":"Jr","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"name_suffixes","value":"Sr","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"name_suffixes","value":"II","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"name_suffixes","value":"III","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"name_suffixes","value":"IV","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"surname_particles","value":"de","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"surname_particles","value":"de la","regions":["United States","Puerto Rico"],"source_ids":["en-us-rules"]}
+{"category":"surname_particles","value":"del","regions":["United States","Puerto Rico"],"source_ids":["en-us-rules"]}
+{"category":"surname_particles","value":"van","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"surname_particles","value":"von","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"credentials","value":"MD","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"credentials","value":"DO","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"credentials","value":"PhD","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"credentials","value":"RN","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"credentials","value":"NP","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"credentials","value":"PA-C","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"credentials","value":"FACP","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"credentials","value":"FAAP","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"credentials","value":"LCSW","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"streets","value":"Fifth Avenue","regions":["New York"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"streets","value":"Pennsylvania Avenue NW","regions":["District of Columbia"],"source_ids":["census-gazetteer-tiger","usps-pub28"]}
+{"category":"streets","value":"Michigan Avenue","regions":["Illinois"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"streets","value":"Sunset Boulevard","regions":["California"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"streets","value":"Congress Avenue","regions":["Texas"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"streets","value":"Peachtree Street NE","regions":["Georgia"],"source_ids":["census-gazetteer-tiger","usps-pub28"]}
+{"category":"streets","value":"Avenida Ponce de León","regions":["Puerto Rico"],"source_ids":["census-gazetteer-tiger","usps-pub28"]}
+{"category":"streets","value":"Ashford Avenue","regions":["Puerto Rico"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"streets","value":"Veterans Drive","regions":["U.S. Virgin Islands"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"streets","value":"Marine Corps Drive","regions":["Guam"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"streets","value":"Fagatogo Road","regions":["American Samoa"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"streets","value":"Beach Road","regions":["Northern Mariana Islands"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"localities","value":"New York","regions":["New York"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Los Angeles","regions":["California"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Chicago","regions":["Illinois"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Houston","regions":["Texas"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Phoenix","regions":["Arizona"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Philadelphia","regions":["Pennsylvania"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Washington","regions":["District of Columbia"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"San Juan","regions":["Puerto Rico"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Ponce","regions":["Puerto Rico"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Charlotte Amalie","regions":["U.S. Virgin Islands"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Christiansted","regions":["U.S. Virgin Islands"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Hagåtña","regions":["Guam"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Dededo","regions":["Guam"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Pago Pago","regions":["American Samoa"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Fagatogo","regions":["American Samoa"],"source_ids":["usgs-gnis"]}
+{"category":"localities","value":"Saipan","regions":["Northern Mariana Islands"],"source_ids":["usgs-gnis"]}
+{"category":"postal_localities","value":"New York","regions":["New York"],"source_ids":["census-gazetteer-tiger"],"attributes":{"state":"NY","postal_code":"10001"}}
+{"category":"postal_localities","value":"Los Angeles","regions":["California"],"source_ids":["census-gazetteer-tiger"],"attributes":{"state":"CA","postal_code":"90001"}}
+{"category":"postal_localities","value":"Washington","regions":["District of Columbia"],"source_ids":["census-gazetteer-tiger"],"attributes":{"state":"DC","postal_code":"20001"}}
+{"category":"postal_localities","value":"San Juan","regions":["Puerto Rico"],"source_ids":["census-gazetteer-tiger"],"attributes":{"state":"PR","postal_code":"00901"}}
+{"category":"postal_localities","value":"Charlotte Amalie","regions":["U.S. Virgin Islands"],"source_ids":["census-gazetteer-tiger"],"attributes":{"state":"VI","postal_code":"00802"}}
+{"category":"postal_localities","value":"Hagåtña","regions":["Guam"],"source_ids":["census-gazetteer-tiger"],"attributes":{"state":"GU","postal_code":"96910"}}
+{"category":"postal_localities","value":"Pago Pago","regions":["American Samoa"],"source_ids":["census-gazetteer-tiger"],"attributes":{"state":"AS","postal_code":"96799"}}
+{"category":"postal_localities","value":"Saipan","regions":["Northern Mariana Islands"],"source_ids":["census-gazetteer-tiger"],"attributes":{"state":"MP","postal_code":"96950"}}
+{"category":"postal_code_localities","value":"10001 New York NY","regions":["New York"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"postal_code_localities","value":"00901 San Juan PR","regions":["Puerto Rico"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"postal_code_localities","value":"00802 Charlotte Amalie VI","regions":["U.S. Virgin Islands"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"postal_code_localities","value":"96910 Hagåtña GU","regions":["Guam"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"postal_code_localities","value":"96799 Pago Pago AS","regions":["American Samoa"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"postal_code_localities","value":"96950 Saipan MP","regions":["Northern Mariana Islands"],"source_ids":["census-gazetteer-tiger"]}
+{"category":"hospitals","value":"Massachusetts General Hospital","regions":["Massachusetts"],"source_ids":["cms-provider-data"]}
+{"category":"hospitals","value":"NewYork-Presbyterian Hospital","regions":["New York"],"source_ids":["cms-provider-data"]}
+{"category":"hospitals","value":"UCLA Medical Center","regions":["California"],"source_ids":["cms-provider-data"]}
+{"category":"hospitals","value":"Northwestern Memorial Hospital","regions":["Illinois"],"source_ids":["cms-provider-data"]}
+{"category":"hospitals","value":"HCA Florida Kendall Hospital","regions":["Florida"],"source_ids":["cms-provider-data"]}
+{"category":"hospitals","value":"University of Puerto Rico Hospital","regions":["Puerto Rico"],"source_ids":["territorial-health-directories"]}
+{"category":"hospitals","value":"Hospital de la Concepción","regions":["Puerto Rico"],"source_ids":["territorial-health-directories"]}
+{"category":"hospitals","value":"Roy Lester Schneider Hospital","regions":["U.S. Virgin Islands"],"source_ids":["territorial-health-directories"]}
+{"category":"hospitals","value":"Guam Memorial Hospital","regions":["Guam"],"source_ids":["territorial-health-directories"]}
+{"category":"hospitals","value":"LBJ Tropical Medical Center","regions":["American Samoa"],"source_ids":["territorial-health-directories"]}
+{"category":"hospitals","value":"Commonwealth Health Center","regions":["Northern Mariana Islands"],"source_ids":["territorial-health-directories"]}
+{"category":"healthcare_institutions","value":"Mass General Brigham","regions":["Massachusetts"],"source_ids":["cms-provider-data"]}
+{"category":"healthcare_institutions","value":"NYC Health + Hospitals","regions":["New York"],"source_ids":["cms-provider-data"]}
+{"category":"healthcare_institutions","value":"Puerto Rico Department of Health","regions":["Puerto Rico"],"source_ids":["territorial-health-directories"]}
+{"category":"healthcare_institutions","value":"Guam Department of Public Health and Social Services","regions":["Guam"],"source_ids":["territorial-health-directories"]}
+{"category":"other_organisations","value":"New York Public Library","regions":["New York"],"source_ids":["en-us-rules"]}
+{"category":"other_organisations","value":"University of California","regions":["California"],"source_ids":["en-us-rules"]}
+{"category":"other_organisations","value":"District of Columbia Public Schools","regions":["District of Columbia"],"source_ids":["en-us-rules"]}
+{"category":"other_organisations","value":"University of Puerto Rico","regions":["Puerto Rico"],"source_ids":["en-us-rules"]}
+{"category":"professions","value":"accountant","regions":["United States"],"source_ids":["bls-soc"]}
+{"category":"professions","value":"bus driver","regions":["United States"],"source_ids":["bls-soc"]}
+{"category":"professions","value":"home health aide","regions":["United States"],"source_ids":["bls-soc"]}
+{"category":"professions","value":"civil engineer","regions":["United States"],"source_ids":["bls-soc"]}
+{"category":"professions","value":"elementary school teacher","regions":["United States"],"source_ids":["bls-soc"]}
+{"category":"professions","value":"software developer","regions":["United States"],"source_ids":["bls-soc"]}
+{"category":"professions","value":"college student","regions":["United States"],"source_ids":["bls-soc"]}
+{"category":"professions","value":"retired postal worker","regions":["United States"],"source_ids":["bls-soc"]}
+{"category":"departments","value":"emergency department","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"departments","value":"cardiology","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"departments","value":"clinical genetics","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"departments","value":"internal medicine","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"departments","value":"pediatrics","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"departments","value":"pulmonary medicine","regions":["United States"],"source_ids":["en-us-rules"]}
+{"category":"administrative_areas","value":"Alabama","regions":["Alabama"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"AL"}}
+{"category":"administrative_areas","value":"Alaska","regions":["Alaska"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"AK"}}
+{"category":"administrative_areas","value":"Arizona","regions":["Arizona"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"AZ"}}
+{"category":"administrative_areas","value":"Arkansas","regions":["Arkansas"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"AR"}}
+{"category":"administrative_areas","value":"California","regions":["California"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"CA"}}
+{"category":"administrative_areas","value":"Colorado","regions":["Colorado"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"CO"}}
+{"category":"administrative_areas","value":"Connecticut","regions":["Connecticut"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"CT"}}
+{"category":"administrative_areas","value":"Delaware","regions":["Delaware"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"DE"}}
+{"category":"administrative_areas","value":"Florida","regions":["Florida"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"FL"}}
+{"category":"administrative_areas","value":"Georgia","regions":["Georgia"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"GA"}}
+{"category":"administrative_areas","value":"Hawaii","regions":["Hawaii"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"HI"}}
+{"category":"administrative_areas","value":"Idaho","regions":["Idaho"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"ID"}}
+{"category":"administrative_areas","value":"Illinois","regions":["Illinois"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"IL"}}
+{"category":"administrative_areas","value":"Indiana","regions":["Indiana"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"IN"}}
+{"category":"administrative_areas","value":"Iowa","regions":["Iowa"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"IA"}}
+{"category":"administrative_areas","value":"Kansas","regions":["Kansas"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"KS"}}
+{"category":"administrative_areas","value":"Kentucky","regions":["Kentucky"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"KY"}}
+{"category":"administrative_areas","value":"Louisiana","regions":["Louisiana"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"LA"}}
+{"category":"administrative_areas","value":"Maine","regions":["Maine"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"ME"}}
+{"category":"administrative_areas","value":"Maryland","regions":["Maryland"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"MD"}}
+{"category":"administrative_areas","value":"Massachusetts","regions":["Massachusetts"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"MA"}}
+{"category":"administrative_areas","value":"Michigan","regions":["Michigan"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"MI"}}
+{"category":"administrative_areas","value":"Minnesota","regions":["Minnesota"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"MN"}}
+{"category":"administrative_areas","value":"Mississippi","regions":["Mississippi"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"MS"}}
+{"category":"administrative_areas","value":"Missouri","regions":["Missouri"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"MO"}}
+{"category":"administrative_areas","value":"Montana","regions":["Montana"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"MT"}}
+{"category":"administrative_areas","value":"Nebraska","regions":["Nebraska"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"NE"}}
+{"category":"administrative_areas","value":"Nevada","regions":["Nevada"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"NV"}}
+{"category":"administrative_areas","value":"New Hampshire","regions":["New Hampshire"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"NH"}}
+{"category":"administrative_areas","value":"New Jersey","regions":["New Jersey"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"NJ"}}
+{"category":"administrative_areas","value":"New Mexico","regions":["New Mexico"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"NM"}}
+{"category":"administrative_areas","value":"New York","regions":["New York"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"NY"}}
+{"category":"administrative_areas","value":"North Carolina","regions":["North Carolina"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"NC"}}
+{"category":"administrative_areas","value":"North Dakota","regions":["North Dakota"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"ND"}}
+{"category":"administrative_areas","value":"Ohio","regions":["Ohio"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"OH"}}
+{"category":"administrative_areas","value":"Oklahoma","regions":["Oklahoma"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"OK"}}
+{"category":"administrative_areas","value":"Oregon","regions":["Oregon"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"OR"}}
+{"category":"administrative_areas","value":"Pennsylvania","regions":["Pennsylvania"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"PA"}}
+{"category":"administrative_areas","value":"Rhode Island","regions":["Rhode Island"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"RI"}}
+{"category":"administrative_areas","value":"South Carolina","regions":["South Carolina"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"SC"}}
+{"category":"administrative_areas","value":"South Dakota","regions":["South Dakota"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"SD"}}
+{"category":"administrative_areas","value":"Tennessee","regions":["Tennessee"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"TN"}}
+{"category":"administrative_areas","value":"Texas","regions":["Texas"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"TX"}}
+{"category":"administrative_areas","value":"Utah","regions":["Utah"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"UT"}}
+{"category":"administrative_areas","value":"Vermont","regions":["Vermont"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"VT"}}
+{"category":"administrative_areas","value":"Virginia","regions":["Virginia"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"VA"}}
+{"category":"administrative_areas","value":"Washington","regions":["Washington"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"WA"}}
+{"category":"administrative_areas","value":"West Virginia","regions":["West Virginia"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"WV"}}
+{"category":"administrative_areas","value":"Wisconsin","regions":["Wisconsin"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"WI"}}
+{"category":"administrative_areas","value":"Wyoming","regions":["Wyoming"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"WY"}}
+{"category":"administrative_areas","value":"District of Columbia","regions":["District of Columbia"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"DC"}}
+{"category":"administrative_areas","value":"Puerto Rico","regions":["Puerto Rico"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"PR"}}
+{"category":"administrative_areas","value":"U.S. Virgin Islands","regions":["U.S. Virgin Islands"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"VI"}}
+{"category":"administrative_areas","value":"Guam","regions":["Guam"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"GU"}}
+{"category":"administrative_areas","value":"American Samoa","regions":["American Samoa"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"AS"}}
+{"category":"administrative_areas","value":"Northern Mariana Islands","regions":["Northern Mariana Islands"],"source_ids":["census-gazetteer-tiger"],"attributes":{"postal_abbreviation":"MP"}}

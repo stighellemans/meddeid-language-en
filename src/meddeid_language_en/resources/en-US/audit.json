@@ -1,0 +1,1035 @@
+{
+  "category_region_coverage": {
+    "administrative_areas": [
+      "Alabama",
+      "Alaska",
+      "American Samoa",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Guam",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Northern Mariana Islands",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "U.S. Virgin Islands",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "credentials": [
+      "United States"
+    ],
+    "departments": [
+      "United States"
+    ],
+    "family_names": [
+      "Guam",
+      "Northern Mariana Islands",
+      "Puerto Rico",
+      "U.S. Virgin Islands",
+      "United States"
+    ],
+    "first_names": [
+      "Alabama",
+      "Alaska",
+      "American Samoa",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Guam",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Northern Mariana Islands",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "U.S. Virgin Islands",
+      "United States",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "healthcare_institutions": [
+      "Alabama",
+      "Alaska",
+      "American Samoa",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Guam",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Northern Mariana Islands",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "U.S. Virgin Islands",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "hospitals": [
+      "Alabama",
+      "Alaska",
+      "American Samoa",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Guam",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Northern Mariana Islands",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "U.S. Virgin Islands",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "localities": [
+      "Alabama",
+      "Alaska",
+      "American Samoa",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Guam",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Northern Mariana Islands",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "U.S. Virgin Islands",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "name_suffixes": [
+      "United States"
+    ],
+    "other_organisations": [
+      "California",
+      "District of Columbia",
+      "New York",
+      "Puerto Rico"
+    ],
+    "postal_code_localities": [
+      "Alabama",
+      "Alaska",
+      "American Samoa",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Guam",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Northern Mariana Islands",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "U.S. Virgin Islands",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "postal_localities": [
+      "Alabama",
+      "Alaska",
+      "American Samoa",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Guam",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Northern Mariana Islands",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "U.S. Virgin Islands",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "prefixes": [
+      "United States"
+    ],
+    "professions": [
+      "United States"
+    ],
+    "streets": [
+      "Alabama",
+      "Alaska",
+      "American Samoa",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Guam",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Northern Mariana Islands",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Puerto Rico",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "U.S. Virgin Islands",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "surname_particles": [
+      "Puerto Rico",
+      "United States"
+    ]
+  },
+  "contract_version": "meddeid.language-resource-audit.v1",
+  "count_regressions": {},
+  "counts": {
+    "administrative_areas": 56,
+    "credentials": 9,
+    "departments": 6,
+    "family_names": 162253,
+    "first_names": 29303,
+    "healthcare_institutions": 5291,
+    "hospitals": 5293,
+    "localities": 21341,
+    "name_suffixes": 5,
+    "other_organisations": 4,
+    "postal_code_localities": 33648,
+    "postal_localities": 25136,
+    "prefixes": 8,
+    "professions": 6526,
+    "streets": 56473,
+    "surname_particles": 5
+  },
+  "lookups_sha256": "d8d5a0330c18349c45d9f9fcbebcbac3dd34fd59482a3a8fb4b18b5bf3f53f04",
+  "malformed_records": [],
+  "missing_category_regions": {},
+  "passed": true,
+  "problems": [],
+  "profile_id": "en-US",
+  "records": 345357,
+  "regions": [
+    "Alabama",
+    "Alaska",
+    "American Samoa",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Delaware",
+    "District of Columbia",
+    "Florida",
+    "Georgia",
+    "Guam",
+    "Hawaii",
+    "Idaho",
+    "Illinois",
+    "Indiana",
+    "Iowa",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Maryland",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Mississippi",
+    "Missouri",
+    "Montana",
+    "Nebraska",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New Mexico",
+    "New York",
+    "North Carolina",
+    "North Dakota",
+    "Northern Mariana Islands",
+    "Ohio",
+    "Oklahoma",
+    "Oregon",
+    "Pennsylvania",
+    "Puerto Rico",
+    "Rhode Island",
+    "South Carolina",
+    "South Dakota",
+    "Tennessee",
+    "Texas",
+    "U.S. Virgin Islands",
+    "United States",
+    "Utah",
+    "Vermont",
+    "Virginia",
+    "Washington",
+    "West Virginia",
+    "Wisconsin",
+    "Wyoming"
+  ],
+  "semantic_collisions": {
+    "count": 33776,
+    "examples": {
+      "60th medical group (travis afb)": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "673rd medical group (joint base elmendorf-richardson)": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "81st medical group (keesler afb)": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "88th medical group (wright-patterson afb)": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "96th medical group (eglin afb)": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "99th medical group (nellis afb)": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "aamir": [
+        "family_names",
+        "first_names"
+      ],
+      "aaro": [
+        "family_names",
+        "first_names"
+      ],
+      "aaron": [
+        "family_names",
+        "first_names"
+      ],
+      "aaronsburg": [
+        "localities",
+        "postal_localities"
+      ],
+      "abad": [
+        "family_names",
+        "first_names"
+      ],
+      "aban": [
+        "family_names",
+        "first_names"
+      ],
+      "abanda": [
+        "localities",
+        "postal_localities"
+      ],
+      "abba": [
+        "family_names",
+        "first_names"
+      ],
+      "abbas": [
+        "family_names",
+        "first_names"
+      ],
+      "abbeville": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbeville area medical center": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbeville general hospital": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbey": [
+        "family_names",
+        "first_names"
+      ],
+      "abbi": [
+        "family_names",
+        "first_names"
+      ],
+      "abbot": [
+        "family_names",
+        "postal_localities"
+      ],
+      "abbotsford": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbott": [
+        "family_names",
+        "first_names",
+        "localities",
+        "postal_localities"
+      ],
+      "abbott northwestern hospital": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbottstown": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbs valley": [
+        "localities",
+        "postal_localities"
+      ],
+      "abby": [
+        "family_names",
+        "first_names"
+      ],
+      "abbyville": [
+        "localities",
+        "postal_localities"
+      ],
+      "abdalla": [
+        "family_names",
+        "first_names"
+      ],
+      "abdallah": [
+        "family_names",
+        "first_names"
+      ],
+      "abdel": [
+        "family_names",
+        "first_names"
+      ],
+      "abdelaziz": [
+        "family_names",
+        "first_names"
+      ],
+      "abdelrahman": [
+        "family_names",
+        "first_names"
+      ],
+      "abdi": [
+        "family_names",
+        "first_names"
+      ],
+      "abdirahman": [
+        "family_names",
+        "first_names"
+      ],
+      "abdou": [
+        "family_names",
+        "first_names"
+      ],
+      "abdoulaye": [
+        "family_names",
+        "first_names"
+      ],
+      "abdul": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulahad": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulahi": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulai": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulaziz": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulhadi": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulhakeem": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulhameed": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulhamid": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulkareem": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulkarim": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulla": [
+        "family_names",
+        "first_names"
+      ],
+      "abdullah": [
+        "family_names",
+        "first_names"
+      ],
+      "abdullahi": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulmajeed": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulmalik": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulraheem": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulrahim": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulrahman": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulrazak": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulsalam": [
+        "family_names",
+        "first_names"
+      ],
+      "abdulwahab": [
+        "family_names",
+        "first_names"
+      ],
+      "abdurahman": [
+        "family_names",
+        "first_names"
+      ],
+      "abdurrahman": [
+        "family_names",
+        "first_names"
+      ],
+      "abe": [
+        "family_names",
+        "first_names"
+      ],
+      "abed": [
+        "family_names",
+        "first_names"
+      ],
+      "abel": [
+        "family_names",
+        "first_names"
+      ],
+      "abelardo": [
+        "family_names",
+        "first_names"
+      ],
+      "abell": [
+        "family_names",
+        "postal_localities"
+      ],
+      "abella": [
+        "family_names",
+        "first_names"
+      ],
+      "aben": [
+        "family_names",
+        "first_names"
+      ],
+      "abercrombie": [
+        "family_names",
+        "localities",
+        "postal_localities"
+      ],
+      "aberdeen": [
+        "family_names",
+        "first_names",
+        "localities",
+        "postal_localities"
+      ],
+      "aberdeen gardens": [
+        "localities",
+        "postal_localities"
+      ],
+      "aberdeen proving ground": [
+        "localities",
+        "postal_localities"
+      ],
+      "abernathy": [
+        "family_names",
+        "localities",
+        "postal_localities"
+      ],
+      "abeytas": [
+        "localities",
+        "postal_localities"
+      ],
+      "abi": [
+        "family_names",
+        "first_names"
+      ],
+      "abid": [
+        "family_names",
+        "first_names"
+      ],
+      "abie": [
+        "first_names",
+        "localities",
+        "postal_localities"
+      ],
+      "abigail": [
+        "family_names",
+        "first_names"
+      ],
+      "abilene": [
+        "first_names",
+        "localities",
+        "postal_localities"
+      ],
+      "abingdon": [
+        "localities",
+        "postal_localities"
+      ],
+      "abington": [
+        "family_names",
+        "localities",
+        "postal_localities"
+      ],
+      "abiquiu": [
+        "localities",
+        "postal_localities"
+      ],
+      "abita springs": [
+        "localities",
+        "postal_localities"
+      ],
+      "able": [
+        "family_names",
+        "first_names"
+      ],
+      "abner": [
+        "family_names",
+        "first_names"
+      ],
+      "abney crossroads": [
+        "localities",
+        "postal_localities"
+      ],
+      "abou": [
+        "family_names",
+        "first_names"
+      ],
+      "abraham": [
+        "family_names",
+        "first_names"
+      ],
+      "abraham lincoln memorial hospital": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abrahan": [
+        "family_names",
+        "first_names"
+      ],
+      "abrahim": [
+        "family_names",
+        "first_names"
+      ],
+      "abram": [
+        "family_names",
+        "first_names",
+        "localities",
+        "postal_localities"
+      ],
+      "abrams": [
+        "family_names",
+        "localities",
+        "postal_localities"
+      ],
+      "abrar": [
+        "family_names",
+        "first_names"
+      ],
+      "abrazo arrowhead hospital": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abrazo central campus": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abrazo scottsdale campus": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abrazo west campus": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abriel": [
+        "family_names",
+        "first_names"
+      ],
+      "abril": [
+        "family_names",
+        "first_names"
+      ]
+    }
+  },
+  "source_lock_problems": [],
+  "source_sha256": {
+    "bls-soc": "46b0b025859c82e07788a2021481f850934c7fea74244eb00930c103419db357",
+    "census-2010-surnames": "117c41cb4668727b7627b2845b6df3f83eb2a22a1813f42c0ff4bdcab86de135",
+    "census-gazetteer": "931c72bdb4ad3d8fe979a1c56c07cd941afb07e25d96cab04e3f804966d21983",
+    "census-gazetteer-tiger": "af9db795944f0ecaae0f19f7e3dfb2283cc50bb6b3804e7d61012498ff3a6117",
+    "census-tiger-roads": "a14518249fce8a9b3cdbaa76533ecf52f95762f9938165d55daab4b34b0657a6",
+    "cms-provider-data": "ee25ecaf1d3684cd122ae5e01cc349b0439bd7388d2f40f893d8f943cb2ab9e3",
+    "en-us-rules": "abfef7110c633ed14299028d7e66e95e5a1b963730c21bbddb1bd4637cdb3d39",
+    "geonames-us-postal": "956c975e248d8d9db934847d577c25108df0b5f5ecc4ac80bf6808fe981073fd",
+    "ssa-baby-names": "bf920e317047ed024be551d5f6f7ba8ce3c259b021f9026479d74df6194a979c",
+    "territorial-health-directories": "463851a7a95aedc09fbf29949b047031230b92e0c86d0ff283657f0b256beffe",
+    "usgs-gnis": "ef7f0a8454bd6833c206e4ac7bf9e05eb8291d9df3f1cfc78d1a515148ea9374",
+    "usps-pub28": "84dececaec5c86fccad2c1b0984a4eb55f386f66c108eaa95e2ee22b50dc6c11"
+  },
+  "sources": [
+    "bls-soc",
+    "census-2010-surnames",
+    "census-gazetteer",
+    "census-gazetteer-tiger",
+    "census-tiger-roads",
+    "cms-provider-data",
+    "en-us-rules",
+    "geonames-us-postal",
+    "ssa-baby-names",
+    "territorial-health-directories",
+    "usgs-gnis",
+    "usps-pub28"
+  ],
+  "sources_lock_logical_sha256": "a9aaa6f36c5001ac39c3c69e07687b1c5705b38ea1fa261e82f285652b2856e5",
+  "ssa_metadata_missing": 0
+}

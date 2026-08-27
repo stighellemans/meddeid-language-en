@@ -1,0 +1,940 @@
+{
+  "contract_version": "meddeid.language-sources.v1",
+  "profile_id": "en-US",
+  "adapter_version": "2",
+  "expected_minimum_counts": {
+    "first_names": 29000,
+    "family_names": 160000,
+    "streets": 56000,
+    "localities": 21000,
+    "postal_localities": 25000,
+    "postal_code_localities": 33000,
+    "hospitals": 5200,
+    "healthcare_institutions": 5200,
+    "professions": 6500,
+    "administrative_areas": 56
+  },
+  "required_category_regions": {
+    "first_names": [
+      "Alabama",
+      "Alaska",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming",
+      "Puerto Rico",
+      "U.S. Virgin Islands",
+      "Guam",
+      "American Samoa",
+      "Northern Mariana Islands"
+    ],
+    "streets": [
+      "Alabama",
+      "Alaska",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming",
+      "Puerto Rico",
+      "U.S. Virgin Islands",
+      "Guam",
+      "American Samoa",
+      "Northern Mariana Islands"
+    ],
+    "localities": [
+      "Alabama",
+      "Alaska",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming",
+      "Puerto Rico",
+      "U.S. Virgin Islands",
+      "Guam",
+      "American Samoa",
+      "Northern Mariana Islands"
+    ],
+    "postal_code_localities": [
+      "Alabama",
+      "Alaska",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming",
+      "Puerto Rico",
+      "U.S. Virgin Islands",
+      "Guam",
+      "American Samoa",
+      "Northern Mariana Islands"
+    ],
+    "hospitals": [
+      "Alabama",
+      "Alaska",
+      "Arizona",
+      "Arkansas",
+      "California",
+      "Colorado",
+      "Connecticut",
+      "Delaware",
+      "District of Columbia",
+      "Florida",
+      "Georgia",
+      "Hawaii",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Kentucky",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Michigan",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "North Carolina",
+      "North Dakota",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Rhode Island",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming",
+      "Puerto Rico",
+      "U.S. Virgin Islands",
+      "Guam",
+      "American Samoa",
+      "Northern Mariana Islands"
+    ]
+  },
+  "sources": [
+    {
+      "source_id": "ssa-baby-names",
+      "source_sha256": "bf920e317047ed024be551d5f6f7ba8ce3c259b021f9026479d74df6194a979c",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "U.S. Social Security Administration",
+      "dataset": "Baby Names from Social Security Card Applications",
+      "release": "2025 national ranks; 2024 national and territory frequencies; 2020 state frequencies",
+      "url": "https://www.ssa.gov/oact/babynames/limits.html",
+      "retrieved_at": "2026-08-20",
+      "license": "U.S.-Government-Work",
+      "attribution": "Source: U.S. Social Security Administration.",
+      "geographic_scope": [
+        "United States",
+        "Wyoming",
+        "Puerto Rico",
+        "U.S. Virgin Islands",
+        "Guam",
+        "American Samoa",
+        "Northern Mariana Islands"
+      ],
+      "output_categories": [
+        "first_names"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/dxdc/babynames/main/raw/yob2024.txt",
+          "cache_filename": "ssa-national-2024.txt",
+          "sha256": "f0083af67c48b666e938d8bb7cb5ec766c832d08359fbdae0edf963dbd9613fb",
+          "origin_url": "https://www.ssa.gov/oact/babynames/names.zip"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/aruljohn/popular-baby-names/master/2025/girl_boy_names_2025.csv",
+          "cache_filename": "ssa-national-ranks-2025.csv",
+          "sha256": "37a4321dd996f0d1666379995d8984486c1134e5cd88cee07228f35d147a87b6",
+          "origin_url": "https://www.ssa.gov/oact/babynames/"
+        },
+        {
+          "url": "https://media.githubusercontent.com/media/RyanMcNeillTR/baby_names_example/882b7c8d88ac1f1739d8bde0dcb375b9c41b2680/data/namesbystate.zip",
+          "cache_filename": "ssa-state-through-2020.zip",
+          "sha256": "1c031a69bb23861d47f842ba242333df83eb6eae6463878aa3adc395ab5b8201",
+          "origin_url": "https://www.ssa.gov/oact/babynames/state/namesbystate.zip"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/dxdc/babynames/main/raw/territories/PR.TXT",
+          "cache_filename": "ssa-territory-pr-2024.txt",
+          "sha256": "3e3e56b7f81925b463ea67184b0359e46cc01feb9f9c38671cc09d04815c0af1",
+          "origin_url": "https://www.ssa.gov/oact/babynames/territory/namesbyterritory.zip"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/dxdc/babynames/main/raw/territories/TR.TXT",
+          "cache_filename": "ssa-territory-combined-2024.txt",
+          "sha256": "ac491b2b236f11cad369dbeda2d40f84e6d7e857fbc3d2b26a371f2785520b9e",
+          "origin_url": "https://www.ssa.gov/oact/babynames/territory/namesbyterritory.zip"
+        }
+      ],
+      "notes": "Official publisher bytes are locked through immutable public mirrors where SSA binary endpoints reject automated retrieval. Each mirror file records its official origin URL."
+    },
+    {
+      "source_id": "census-2010-surnames",
+      "source_sha256": "117c41cb4668727b7627b2845b6df3f83eb2a22a1813f42c0ff4bdcab86de135",
+      "source_hash_kind": "raw publisher ZIP",
+      "publisher": "U.S. Census Bureau",
+      "dataset": "Frequently Occurring Surnames from the 2010 Census",
+      "release": "2010 Census",
+      "url": "https://www.census.gov/topics/population/genealogy/data/2010_surnames.html",
+      "retrieved_at": "2026-08-20",
+      "license": "U.S.-Government-Work",
+      "attribution": "Source: U.S. Census Bureau, 2010 Census surnames.",
+      "geographic_scope": [
+        "United States"
+      ],
+      "output_categories": [
+        "family_names"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://www2.census.gov/topics/genealogy/2010surnames/names.zip",
+          "cache_filename": "census-2010-surnames.zip",
+          "sha256": "117c41cb4668727b7627b2845b6df3f83eb2a22a1813f42c0ff4bdcab86de135"
+        }
+      ]
+    },
+    {
+      "source_id": "usgs-gnis",
+      "source_sha256": "ef7f0a8454bd6833c206e4ac7bf9e05eb8291d9df3f1cfc78d1a515148ea9374",
+      "source_hash_kind": "canonical curated snapshot",
+      "publisher": "U.S. Geological Survey",
+      "dataset": "Geographic Names Information System token curation",
+      "release": "Domestic Names snapshot 2026-08-20",
+      "url": "https://www.usgs.gov/us-board-on-geographic-names/download-gnis-data",
+      "retrieved_at": "2026-08-20",
+      "license": "Public-Domain",
+      "attribution": "Source: U.S. Geological Survey GNIS.",
+      "geographic_scope": [
+        "United States and territories"
+      ],
+      "output_categories": [
+        "localities"
+      ],
+      "fetch": false
+    },
+    {
+      "source_id": "census-gazetteer-tiger",
+      "source_sha256": "af9db795944f0ecaae0f19f7e3dfb2283cc50bb6b3804e7d61012498ff3a6117",
+      "source_hash_kind": "canonical curated snapshot",
+      "publisher": "U.S. Census Bureau",
+      "dataset": "Gazetteer and TIGER/Line administrative token curation",
+      "release": "2025 reference token snapshot",
+      "url": "https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html",
+      "retrieved_at": "2026-08-20",
+      "license": "U.S.-Government-Work",
+      "attribution": "Source: U.S. Census Bureau.",
+      "geographic_scope": [
+        "United States and territories"
+      ],
+      "output_categories": [
+        "streets",
+        "localities",
+        "postal_localities",
+        "postal_code_localities",
+        "administrative_areas"
+      ],
+      "fetch": false
+    },
+    {
+      "source_id": "census-gazetteer",
+      "source_sha256": "931c72bdb4ad3d8fe979a1c56c07cd941afb07e25d96cab04e3f804966d21983",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "U.S. Census Bureau",
+      "dataset": "2025 Census Gazetteer national place and ZCTA files",
+      "release": "2025 Gazetteer",
+      "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/",
+      "retrieved_at": "2026-08-20",
+      "license": "U.S.-Government-Work",
+      "attribution": "Source: U.S. Census Bureau.",
+      "geographic_scope": [
+        "United States and territories"
+      ],
+      "output_categories": [
+        "localities",
+        "postal_localities",
+        "postal_code_localities"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_place_national.zip",
+          "cache_filename": "census-2025-places.zip",
+          "sha256": "49644173a453469d9bd77fb7a493b027f87567e209edaf2078aac7543ac2ee29"
+        },
+        {
+          "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_zcta_national.zip",
+          "cache_filename": "census-2025-zcta.zip",
+          "sha256": "51516a4283bab5cd2376eec75609ddc4b363a18297e8adeeaac7b03cf7c84dbe"
+        }
+      ]
+    },
+    {
+      "source_id": "geonames-us-postal",
+      "source_sha256": "956c975e248d8d9db934847d577c25108df0b5f5ecc4ac80bf6808fe981073fd",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "GeoNames",
+      "dataset": "United States postal code directory",
+      "release": "US.zip publisher snapshot 2026-08-20",
+      "url": "https://download.geonames.org/export/zip/",
+      "retrieved_at": "2026-08-20",
+      "license": "CC-BY-4.0",
+      "attribution": "Contains GeoNames data licensed under CC BY 4.0.",
+      "geographic_scope": [
+        "United States and territories"
+      ],
+      "output_categories": [
+        "postal_localities",
+        "postal_code_localities"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://download.geonames.org/export/zip/US.zip",
+          "cache_filename": "geonames-us-postal-2026-08-20.zip",
+          "sha256": "9b9c5c9499ccc534a05ba8fb4d469fcffb1abaf1fd56f1f0a1c62fb7cbfa7d92"
+        }
+      ]
+    },
+    {
+      "source_id": "census-tiger-roads",
+      "source_sha256": "a14518249fce8a9b3cdbaa76533ecf52f95762f9938165d55daab4b34b0657a6",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "U.S. Census Bureau",
+      "dataset": "2025 TIGER/Line primary and secondary roads by state or equivalent",
+      "release": "TIGER2025 PRISECROADS",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/",
+      "retrieved_at": "2026-08-20",
+      "license": "U.S.-Government-Work",
+      "attribution": "Source: U.S. Census Bureau.",
+      "geographic_scope": [
+        "50 states",
+        "District of Columbia",
+        "Puerto Rico",
+        "U.S. Virgin Islands",
+        "Guam",
+        "American Samoa",
+        "Northern Mariana Islands"
+      ],
+      "output_categories": [
+        "streets"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_01_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_01_prisecroads.zip",
+          "sha256": "e43196ea2a67b4d8eaed1906ba0fd6743d1ca472653dabd9c57d690b81b8e125"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_02_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_02_prisecroads.zip",
+          "sha256": "0164c0cc132404972b6b8e97c6babdaefeafc99e0705663cc451400b465f81ba"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_04_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_04_prisecroads.zip",
+          "sha256": "cbcea97b375bd62233b6ee6070c94b119e964f4bdf00eedc9ca3c90ae719d0bd"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_05_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_05_prisecroads.zip",
+          "sha256": "0c181b8023c36e5fa7c9e9f62d4b2e453552b30da9989031ad7abc77404944b2"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_06_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_06_prisecroads.zip",
+          "sha256": "79d8485a0ed8e1971390efb55f4e832e449c857a28be97db1ded3850b9f5f8cf"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_08_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_08_prisecroads.zip",
+          "sha256": "1f7ebfad36d1cc13d892b8db3911a51adbc5ff9c4d75fe6d32cd94b4880cb6b8"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_09_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_09_prisecroads.zip",
+          "sha256": "c4d783d7ae271d63b8f3ac70c4f17a229469117ef633f88f40020dc19b745698"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_10_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_10_prisecroads.zip",
+          "sha256": "702366d39de6b7c5dd55d85ead0f3250033da621652f6e733678880f802a9e3b"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_11_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_11_prisecroads.zip",
+          "sha256": "e2de714bdd27dd7a79bed4416cec14273b04936a0a5f691afbe8e2c930ee9288"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_12_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_12_prisecroads.zip",
+          "sha256": "4aed3d13d94f1e3433839b3ce9b7b07c9b919b214bd93b6254cbb6dfb479d166"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_13_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_13_prisecroads.zip",
+          "sha256": "172a11c5d7bc9d17b125868d43af418cbf734d4c6d9f6f7168f0e215bddc93cd"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_15_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_15_prisecroads.zip",
+          "sha256": "1814a94b6857d749c81559a984eb2e7fed78ab9b6896ffd622b4495984240293"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_16_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_16_prisecroads.zip",
+          "sha256": "1a728ce252d64e1cf14f80683bc1d4b9f998c7b8f7ce07f4d4607cc4c5e169cc"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_17_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_17_prisecroads.zip",
+          "sha256": "f0852da8f07689189b4cd8d202e9da452326e4234ff49ddea31d3ea3573a4bb4"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_18_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_18_prisecroads.zip",
+          "sha256": "d6193f990a73982df887a9c16f48bd7c614146906404ac091ec91f4b0d5317ce"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_19_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_19_prisecroads.zip",
+          "sha256": "687b91fb8f2ef234fdc9d1ec949ce9b3f8ae4c63ce03415ea00573121df139de"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_20_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_20_prisecroads.zip",
+          "sha256": "e227b9f9cab383420e26efc90b0c093ff41a010ca1fa0a07e41938da201bd800"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_21_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_21_prisecroads.zip",
+          "sha256": "a0c703e78262ed2fa631305a930b27b21c22930664598558f3f69683d2dea78b"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_22_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_22_prisecroads.zip",
+          "sha256": "e284ed7e8937157d5da4efd1728a1b6a03409c33263db531fb01a3f51515bc55"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_23_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_23_prisecroads.zip",
+          "sha256": "7d66dd55eda92de357c6a0c87f452fec09a867451f2c03d0f3f4302978d3b941"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_24_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_24_prisecroads.zip",
+          "sha256": "f7651ff470980f567454d4f6357542d0ab442084f961de11c8887924eff73d76"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_25_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_25_prisecroads.zip",
+          "sha256": "59cea676388e5c14bc19796fb45047e15c15c10d3e2f05a1b763feed0f740d42"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_26_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_26_prisecroads.zip",
+          "sha256": "d5e388e53d871aca8c230921454555da328905a688bf45ad7c8aaad6f908eb67"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_27_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_27_prisecroads.zip",
+          "sha256": "dd87b5ad647c6efa8f822651d2457e8043d9090f7eb3a400b2d4de2d5a3fa342"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_28_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_28_prisecroads.zip",
+          "sha256": "afb49e6a20a28df944e3aca2e2a1b0967dff151829e386cdeb61dc583e189ea3"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_29_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_29_prisecroads.zip",
+          "sha256": "a6e4dd2df027908fbd5a1c2a2c0500b7864d43f557e20e90751f49c1e26d4d74"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_30_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_30_prisecroads.zip",
+          "sha256": "0c7c1d7af2436f56ae61fe9ae57f02f0f304b05254d5e54bcf4d21c8e23c5b99"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_31_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_31_prisecroads.zip",
+          "sha256": "26afda8ad38b0c270b08ef6242271d4128736b191ad1527b738adfb53203d2ed"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_32_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_32_prisecroads.zip",
+          "sha256": "0dbf3fdc4c666e3f9c20d097fe1d49d6ecef129c0dc117b40e54dc3e642e8652"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_33_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_33_prisecroads.zip",
+          "sha256": "dabe081a28e065598e395f2f81ace44204d30498820133ac761fcec434e7545f"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_34_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_34_prisecroads.zip",
+          "sha256": "3a539b3ec10fae675c7215086be9da06714f78ddcf3c753a39c6d2f8af24daf7"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_35_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_35_prisecroads.zip",
+          "sha256": "b2aa1cc17c3d0e623aed7dfd1ec9ad5ac4db4f123f3188737adeeb5366951f7a"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_36_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_36_prisecroads.zip",
+          "sha256": "f96453fdc03029be40d78203559e8833f34fa79d006d8d35901ed58340661a2f"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_37_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_37_prisecroads.zip",
+          "sha256": "cce2cbc384adf5f0158cee51ef6c312ba277ab939809d2d02ba1aca1e21fdb51"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_38_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_38_prisecroads.zip",
+          "sha256": "eda6c94392d352e8d4fd86422080e12511e32b410fd7516d0d56cdeb2e4e9eba"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_39_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_39_prisecroads.zip",
+          "sha256": "865913308b530235fb2bea969eba19d36b3769df248366ff2e61a768b3b6b08b"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_40_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_40_prisecroads.zip",
+          "sha256": "bb6921db25bc03f0321ccadcdb5ac9b709a837369ebb66234ce55bb1390f2a27"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_41_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_41_prisecroads.zip",
+          "sha256": "0901d1af70d2150fea90b09db30407dddb6ab0bc3aa6a6175798c60bceba7b67"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_42_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_42_prisecroads.zip",
+          "sha256": "fdeed89517877a3be8f3e692dc1ba1794e6f90da382fa528bce67ec44451a00e"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_44_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_44_prisecroads.zip",
+          "sha256": "c22789c4753b253bd83642a36944c036999c7d869c4cf278be4b25130039472b"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_45_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_45_prisecroads.zip",
+          "sha256": "068f6e302458122441dfa1c53f6b78e971ab2564e06cdcf42da1fc48ccd22eae"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_46_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_46_prisecroads.zip",
+          "sha256": "ff120346ad861fcbccefb9dcf15ddfd04987d11fd410f5209f5446063fee0207"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_47_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_47_prisecroads.zip",
+          "sha256": "4fcc9893c002af72ec0ef3608d86303171a798710ae2720768883ed59e9e653d"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_48_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_48_prisecroads.zip",
+          "sha256": "ab9b94248f46577b22e3bc87acdf03d1d7b988d93a7d4b6a32d46b9fc9edb56a"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_49_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_49_prisecroads.zip",
+          "sha256": "b736ecd5c107f39fa272ffa45b93231d8d20ee2bcf1ec0924669d6e6edfba7c1"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_50_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_50_prisecroads.zip",
+          "sha256": "dc904d7bb3161397eea234f110227293f6292e385b66fb122d518bf6aa368b86"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_51_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_51_prisecroads.zip",
+          "sha256": "13930357044ab577aa7f3e77fa4f361ccc2882ef4d8437534724098d7031af44"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_53_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_53_prisecroads.zip",
+          "sha256": "a2e2e66452b4a991e4252ff18a66222bc09ba0073b57ca26d36e95e6fd0cb092"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_54_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_54_prisecroads.zip",
+          "sha256": "e6b66d18976073d385a7df3e9485aae690e8227fd81f9016cd3887a106972bfc"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_55_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_55_prisecroads.zip",
+          "sha256": "9f0ecc924f87dc2e4d6816b085047e867a1c6e217c50a15a4c0ea62ba617e6e4"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_56_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_56_prisecroads.zip",
+          "sha256": "9310a7852a0d7b3a678ebc51583e8766948772679a01e61b64903621033c648f"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_60_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_60_prisecroads.zip",
+          "sha256": "28d59dbb5f5d6f42ec3635d461f514c74c86d0b8cdf2fba9327e97a50eabaa05"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_66_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_66_prisecroads.zip",
+          "sha256": "c755712fa478c6e5a716266de6d9e3b642a102ce4c7d93289c1c4e7425b00b08"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_69_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_69_prisecroads.zip",
+          "sha256": "69f8822c03b29fa99c90c072f555989885c03444f0196f12eb122a7f11dab38d"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_72_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_72_prisecroads.zip",
+          "sha256": "104056b337527890844cf483a23d36149bb4748da6c65c513eb69e3d93d167b6"
+        },
+        {
+          "url": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_78_prisecroads.zip",
+          "cache_filename": "tiger-2025-prisec/tl_2025_78_prisecroads.zip",
+          "sha256": "332110b4f0bbb6c07df0ad054c12a49a2064f4be2a58c0ba94e470e14e1062c3"
+        }
+      ],
+      "notes": "The runtime asset deterministically retains at most 3,000 normalized road names per state or equivalent using the lowest SHA-256 keys."
+    },
+    {
+      "source_id": "usps-pub28",
+      "source_sha256": "84dececaec5c86fccad2c1b0984a4eb55f386f66c108eaa95e2ee22b50dc6c11",
+      "source_hash_kind": "canonical curated snapshot",
+      "publisher": "United States Postal Service",
+      "dataset": "Publication 28 Postal Addressing Standards",
+      "release": "web edition retrieved 2026-08-20",
+      "url": "https://pe.usps.com/text/pub28/",
+      "retrieved_at": "2026-08-20",
+      "license": "Reference-Use",
+      "attribution": "Address tokens derived from USPS Publication 28.",
+      "geographic_scope": [
+        "United States and territories"
+      ],
+      "output_categories": [
+        "streets",
+        "postal_localities",
+        "administrative_areas"
+      ],
+      "fetch": false
+    },
+    {
+      "source_id": "cms-provider-data",
+      "source_sha256": "ee25ecaf1d3684cd122ae5e01cc349b0439bd7388d2f40f893d8f943cb2ab9e3",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "Centers for Medicare & Medicaid Services",
+      "dataset": "Hospital General Information",
+      "release": "file modified 2026-07-22; dataset released 2026-08-13",
+      "url": "https://data.cms.gov/provider-data/dataset/xubh-q36u",
+      "retrieved_at": "2026-08-20",
+      "license": "Public-Domain",
+      "attribution": "Data source: Centers for Medicare & Medicaid Services.",
+      "geographic_scope": [
+        "United States and participating territories"
+      ],
+      "output_categories": [
+        "hospitals",
+        "healthcare_institutions"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1785189955/Hospital_General_Information.csv",
+          "cache_filename": "cms-hospital-general-information-2026-07-22.csv",
+          "sha256": "f874f09fef895a1ccf5bb7392dcbb2be05c9860339261b093fe00f0c1b013480"
+        }
+      ]
+    },
+    {
+      "source_id": "territorial-health-directories",
+      "source_sha256": "463851a7a95aedc09fbf29949b047031230b92e0c86d0ff283657f0b256beffe",
+      "source_hash_kind": "canonical curated snapshot",
+      "publisher": "Territorial health departments",
+      "dataset": "Official public facility directory token curation",
+      "release": "official directory snapshots 2026-08-20",
+      "url": "https://www.medicaid.gov/about-us/beneficiary-resources/index.html",
+      "retrieved_at": "2026-08-20",
+      "license": "U.S.-Government-Work",
+      "attribution": "Source: official U.S. territorial health authorities.",
+      "geographic_scope": [
+        "Puerto Rico",
+        "U.S. Virgin Islands",
+        "Guam",
+        "American Samoa",
+        "Northern Mariana Islands"
+      ],
+      "output_categories": [
+        "hospitals",
+        "healthcare_institutions"
+      ],
+      "fetch": false
+    },
+    {
+      "source_id": "bls-soc",
+      "source_sha256": "46b0b025859c82e07788a2021481f850934c7fea74244eb00930c103419db357",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "U.S. Bureau of Labor Statistics",
+      "dataset": "2018 SOC Direct Match Title File",
+      "release": "2018 SOC direct match titles",
+      "url": "https://www.bls.gov/soc/2018/",
+      "retrieved_at": "2026-08-20",
+      "license": "U.S.-Government-Work",
+      "attribution": "Source: U.S. Bureau of Labor Statistics.",
+      "geographic_scope": [
+        "United States"
+      ],
+      "output_categories": [
+        "professions"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/dan-grant-hunter/ONET_Analysis_Classification/c8ca1acb5843f1a964f473c2a09bedbb86536d53/data/soc_2018_direct_match_title_file.csv",
+          "cache_filename": "bls-soc-2018-direct-match-titles.csv",
+          "sha256": "11bffe2e7615ade095fd52bcd7d08ae2c149a54420f91569164e40df611158a5",
+          "origin_url": "https://www.bls.gov/soc/2018/soc_2018_direct_match_title_file.xlsx"
+        }
+      ],
+      "notes": "Official publisher content is locked through an immutable public mirror because the BLS download endpoint rejects automated retrieval."
+    },
+    {
+      "source_id": "en-us-rules",
+      "source_sha256": "abfef7110c633ed14299028d7e66e95e5a1b963730c21bbddb1bd4637cdb3d39",
+      "source_hash_kind": "canonical curated snapshot",
+      "publisher": "MedDeID",
+      "dataset": "Locale rule and terminology curation",
+      "release": "1",
+      "url": "https://github.com/stighellemans/meddeid-language-en",
+      "retrieved_at": "2026-08-20",
+      "license": "AGPL-3.0-only",
+      "attribution": "MedDeID English locale rule curation.",
+      "geographic_scope": [
+        "United States and territories"
+      ],
+      "output_categories": [
+        "prefixes",
+        "name_suffixes",
+        "surname_particles",
+        "credentials",
+        "departments",
+        "administrative_areas",
+        "other_organisations"
+      ],
+      "fetch": false
+    }
+  ],
+  "excluded_sources": [
+    {
+      "dataset": "person-level Social Security records",
+      "reason": "SSA aggregate name-frequency files are used; application-level records are never ingested."
+    },
+    {
+      "dataset": "complete residential or patient addresses",
+      "reason": "Only public road, locality, postal geography, and facility-name fields are normalized."
+    }
+  ]
+}

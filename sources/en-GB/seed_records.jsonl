@@ -1,0 +1,143 @@
+{"category":"first_names","value":"Olivia","weight":1.0,"regions":["England","Wales"],"source_ids":["ons-baby-names-ew"]}
+{"category":"first_names","value":"Amelia","weight":0.96,"regions":["England","Wales"],"source_ids":["ons-baby-names-ew"]}
+{"category":"first_names","value":"Isla","weight":0.94,"regions":["Scotland"],"source_ids":["nrs-baby-names"]}
+{"category":"first_names","value":"Emily","weight":0.91,"regions":["Northern Ireland"],"source_ids":["nisra-baby-names"]}
+{"category":"first_names","value":"Ava","weight":0.9,"regions":["United Kingdom"],"source_ids":["ons-baby-names-ew","nrs-baby-names","nisra-baby-names"]}
+{"category":"first_names","value":"Freya","weight":0.86,"regions":["United Kingdom"],"source_ids":["ons-baby-names-ew","nrs-baby-names"]}
+{"category":"first_names","value":"Mia","weight":0.84,"regions":["United Kingdom"],"source_ids":["ons-baby-names-ew","nrs-baby-names","nisra-baby-names"]}
+{"category":"first_names","value":"Sophie","weight":0.82,"regions":["Scotland","Northern Ireland"],"source_ids":["nrs-baby-names","nisra-baby-names"]}
+{"category":"first_names","value":"Aoife","weight":0.78,"regions":["Northern Ireland"],"source_ids":["nisra-baby-names"]}
+{"category":"first_names","value":"Eilidh","weight":0.72,"regions":["Scotland"],"source_ids":["nrs-baby-names"]}
+{"category":"first_names","value":"Ffion","weight":0.69,"regions":["Wales"],"source_ids":["ons-baby-names-ew"]}
+{"category":"first_names","value":"Aisha","weight":0.68,"regions":["England","Wales"],"source_ids":["ons-baby-names-ew"]}
+{"category":"first_names","value":"Muhammad","weight":1.0,"regions":["England","Wales"],"source_ids":["ons-baby-names-ew"]}
+{"category":"first_names","value":"Noah","weight":0.98,"regions":["United Kingdom"],"source_ids":["ons-baby-names-ew","nrs-baby-names","nisra-baby-names"]}
+{"category":"first_names","value":"Oliver","weight":0.95,"regions":["United Kingdom"],"source_ids":["ons-baby-names-ew","nrs-baby-names"]}
+{"category":"first_names","value":"Jack","weight":0.94,"regions":["United Kingdom"],"source_ids":["ons-baby-names-ew","nrs-baby-names","nisra-baby-names"]}
+{"category":"first_names","value":"James","weight":0.92,"regions":["United Kingdom"],"source_ids":["ons-baby-names-ew","nrs-baby-names","nisra-baby-names"]}
+{"category":"first_names","value":"Theo","weight":0.89,"regions":["England","Wales"],"source_ids":["ons-baby-names-ew"]}
+{"category":"first_names","value":"Lewis","weight":0.83,"regions":["Scotland","Wales"],"source_ids":["nrs-baby-names","ons-baby-names-ew"]}
+{"category":"first_names","value":"Cillian","weight":0.79,"regions":["Northern Ireland"],"source_ids":["nisra-baby-names"]}
+{"category":"first_names","value":"Dafydd","weight":0.7,"regions":["Wales"],"source_ids":["ons-baby-names-ew"]}
+{"category":"first_names","value":"Hamish","weight":0.7,"regions":["Scotland"],"source_ids":["nrs-baby-names"]}
+{"category":"family_names","value":"Smith","weight":1.0,"regions":["United Kingdom"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Jones","weight":0.95,"regions":["England","Wales"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Williams","weight":0.91,"regions":["England","Wales"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Brown","weight":0.89,"regions":["United Kingdom"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Taylor","weight":0.87,"regions":["United Kingdom"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Davies","weight":0.84,"regions":["Wales","England"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Evans","weight":0.82,"regions":["Wales","England"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Campbell","weight":0.8,"regions":["Scotland","Northern Ireland"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"MacDonald","weight":0.78,"regions":["Scotland"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Murphy","weight":0.77,"regions":["Northern Ireland"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"O'Neill","weight":0.75,"regions":["Northern Ireland"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Khan","weight":0.73,"regions":["England","Wales"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Patel","weight":0.72,"regions":["England","Wales"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Ahmed","weight":0.7,"regions":["United Kingdom"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Price","weight":0.68,"regions":["Wales","England"],"source_ids":["dfe-school-census-names"]}
+{"category":"family_names","value":"Morgan","weight":0.67,"regions":["Wales","England"],"source_ids":["dfe-school-census-names"]}
+{"category":"prefixes","value":"Mr","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"prefixes","value":"Mrs","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"prefixes","value":"Ms","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"prefixes","value":"Miss","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"prefixes","value":"Mx","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"prefixes","value":"Dr","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"prefixes","value":"Professor","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"prefixes","value":"Sir","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"prefixes","value":"Dame","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"name_suffixes","value":"Jr","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"name_suffixes","value":"Sr","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"name_suffixes","value":"II","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"name_suffixes","value":"III","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"surname_particles","value":"de","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"surname_particles","value":"de la","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"surname_particles","value":"van","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"surname_particles","value":"von","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"surname_particles","value":"Mac","regions":["Scotland"],"source_ids":["en-gb-rules"]}
+{"category":"credentials","value":"MBBS","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"credentials","value":"MBChB","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"credentials","value":"FRCP","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"credentials","value":"MRCP","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"credentials","value":"FRCS","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"credentials","value":"FRCGP","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"credentials","value":"RN","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"credentials","value":"RGN","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"credentials","value":"PhD","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"streets","value":"Baker Street","regions":["England"],"source_ids":["os-open-names"]}
+{"category":"streets","value":"Harley Street","regions":["England"],"source_ids":["os-open-names"]}
+{"category":"streets","value":"Oxford Road","regions":["England"],"source_ids":["os-open-names"]}
+{"category":"streets","value":"Great Western Road","regions":["Scotland"],"source_ids":["os-open-names"]}
+{"category":"streets","value":"Sauchiehall Street","regions":["Scotland"],"source_ids":["os-open-names"]}
+{"category":"streets","value":"Leith Walk","regions":["Scotland"],"source_ids":["os-open-names"]}
+{"category":"streets","value":"St Mary Street","regions":["Wales"],"source_ids":["os-open-names"]}
+{"category":"streets","value":"Queen Street","regions":["Wales"],"source_ids":["os-open-names"]}
+{"category":"streets","value":"Cathedral Road","regions":["Wales"],"source_ids":["os-open-names"]}
+{"category":"streets","value":"Royal Avenue","regions":["Northern Ireland"],"source_ids":["osni-open-gazetteer"]}
+{"category":"streets","value":"Lisburn Road","regions":["Northern Ireland"],"source_ids":["osni-open-gazetteer"]}
+{"category":"streets","value":"Upper Newtownards Road","regions":["Northern Ireland"],"source_ids":["osni-open-gazetteer"]}
+{"category":"streets","value":"Great Victoria Street","regions":["Northern Ireland"],"source_ids":["osni-open-gazetteer"]}
+{"category":"localities","value":"London","regions":["England"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Birmingham","regions":["England"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Manchester","regions":["England"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Bristol","regions":["England"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Newcastle upon Tyne","regions":["England"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Cardiff","regions":["Wales"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Swansea","regions":["Wales"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Wrexham","regions":["Wales"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Edinburgh","regions":["Scotland"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Glasgow","regions":["Scotland"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Aberdeen","regions":["Scotland"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Inverness","regions":["Scotland"],"source_ids":["os-open-names"]}
+{"category":"localities","value":"Belfast","regions":["Northern Ireland"],"source_ids":["osni-open-gazetteer"]}
+{"category":"localities","value":"Derry","regions":["Northern Ireland"],"source_ids":["osni-open-gazetteer"]}
+{"category":"localities","value":"Lisburn","regions":["Northern Ireland"],"source_ids":["osni-open-gazetteer"]}
+{"category":"localities","value":"Newry","regions":["Northern Ireland"],"source_ids":["osni-open-gazetteer"]}
+{"category":"postal_localities","value":"London","regions":["England"],"source_ids":["os-open-names"],"attributes":{"postcode":"SW1A 2AA"}}
+{"category":"postal_localities","value":"Manchester","regions":["England"],"source_ids":["os-open-names"],"attributes":{"postcode":"M1 1AE"}}
+{"category":"postal_localities","value":"Cardiff","regions":["Wales"],"source_ids":["os-open-names"],"attributes":{"postcode":"CF10 1EP"}}
+{"category":"postal_localities","value":"Edinburgh","regions":["Scotland"],"source_ids":["os-open-names"],"attributes":{"postcode":"EH1 1BB"}}
+{"category":"postal_localities","value":"Glasgow","regions":["Scotland"],"source_ids":["os-open-names"],"attributes":{"postcode":"G1 1XW"}}
+{"category":"postal_localities","value":"Belfast","regions":["Northern Ireland"],"source_ids":["osni-open-gazetteer"],"attributes":{"postcode":"BT1 1AA","postcode_status":"format-example"}}
+{"category":"postal_code_localities","value":"SW1A 2AA London","regions":["England"],"source_ids":["codepoint-open"]}
+{"category":"postal_code_localities","value":"M1 1AE Manchester","regions":["England"],"source_ids":["codepoint-open"]}
+{"category":"postal_code_localities","value":"CF10 1EP Cardiff","regions":["Wales"],"source_ids":["codepoint-open"]}
+{"category":"postal_code_localities","value":"EH1 1BB Edinburgh","regions":["Scotland"],"source_ids":["codepoint-open"]}
+{"category":"hospitals","value":"Guy's Hospital","regions":["England"],"source_ids":["nhs-ods"]}
+{"category":"hospitals","value":"St Thomas' Hospital","regions":["England"],"source_ids":["nhs-ods"]}
+{"category":"hospitals","value":"Queen Elizabeth Hospital Birmingham","regions":["England"],"source_ids":["nhs-ods"]}
+{"category":"hospitals","value":"University Hospital of Wales","regions":["Wales"],"source_ids":["nhs-ods"]}
+{"category":"hospitals","value":"Singleton Hospital","regions":["Wales"],"source_ids":["nhs-ods"]}
+{"category":"hospitals","value":"Royal Infirmary of Edinburgh","regions":["Scotland"],"source_ids":["devolved-health-directories"]}
+{"category":"hospitals","value":"Queen Elizabeth University Hospital","regions":["Scotland"],"source_ids":["devolved-health-directories"]}
+{"category":"hospitals","value":"Aberdeen Royal Infirmary","regions":["Scotland"],"source_ids":["devolved-health-directories"]}
+{"category":"hospitals","value":"Royal Victoria Hospital","regions":["Northern Ireland"],"source_ids":["devolved-health-directories"]}
+{"category":"hospitals","value":"Belfast City Hospital","regions":["Northern Ireland"],"source_ids":["devolved-health-directories"]}
+{"category":"hospitals","value":"Altnagelvin Area Hospital","regions":["Northern Ireland"],"source_ids":["devolved-health-directories"]}
+{"category":"hospitals","value":"Ulster Hospital","regions":["Northern Ireland"],"source_ids":["devolved-health-directories"]}
+{"category":"healthcare_institutions","value":"NHS Greater Glasgow and Clyde","regions":["Scotland"],"source_ids":["devolved-health-directories"]}
+{"category":"healthcare_institutions","value":"NHS Lothian","regions":["Scotland"],"source_ids":["devolved-health-directories"]}
+{"category":"healthcare_institutions","value":"Cardiff and Vale University Health Board","regions":["Wales"],"source_ids":["nhs-ods"]}
+{"category":"healthcare_institutions","value":"Belfast Health and Social Care Trust","regions":["Northern Ireland"],"source_ids":["devolved-health-directories"]}
+{"category":"healthcare_institutions","value":"Guy's and St Thomas' NHS Foundation Trust","regions":["England"],"source_ids":["nhs-ods"]}
+{"category":"other_organisations","value":"Cardiff Council","regions":["Wales"],"source_ids":["en-gb-rules"]}
+{"category":"other_organisations","value":"University of Edinburgh","regions":["Scotland"],"source_ids":["en-gb-rules"]}
+{"category":"other_organisations","value":"Belfast City Council","regions":["Northern Ireland"],"source_ids":["en-gb-rules"]}
+{"category":"other_organisations","value":"University of Manchester","regions":["England"],"source_ids":["en-gb-rules"]}
+{"category":"professions","value":"accountant","regions":["United Kingdom"],"source_ids":["ons-soc-2020"]}
+{"category":"professions","value":"bus driver","regions":["United Kingdom"],"source_ids":["ons-soc-2020"]}
+{"category":"professions","value":"care assistant","regions":["United Kingdom"],"source_ids":["ons-soc-2020"]}
+{"category":"professions","value":"civil engineer","regions":["United Kingdom"],"source_ids":["ons-soc-2020"]}
+{"category":"professions","value":"primary school teacher","regions":["United Kingdom"],"source_ids":["ons-soc-2020"]}
+{"category":"professions","value":"software developer","regions":["United Kingdom"],"source_ids":["ons-soc-2020"]}
+{"category":"professions","value":"university student","regions":["United Kingdom"],"source_ids":["ons-soc-2020"]}
+{"category":"professions","value":"retired postal worker","regions":["United Kingdom"],"source_ids":["ons-soc-2020"]}
+{"category":"departments","value":"accident and emergency","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"departments","value":"cardiology","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"departments","value":"clinical genetics","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"departments","value":"general medicine","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"departments","value":"paediatrics","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"departments","value":"respiratory medicine","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"administrative_areas","value":"England","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"administrative_areas","value":"Scotland","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"administrative_areas","value":"Wales","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}
+{"category":"administrative_areas","value":"Northern Ireland","regions":["United Kingdom"],"source_ids":["en-gb-rules"]}

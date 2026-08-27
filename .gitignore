@@ -1,0 +1,8 @@
+.cache/
+build/
+dist/
+node_modules/
+*.egg-info/
+*.tgz
+__pycache__/
+.pytest_cache/

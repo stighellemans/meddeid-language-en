@@ -1,0 +1,39 @@
+{
+  "name": "@meddeid/language-en",
+  "version": "0.2.0",
+  "description": "English en-GB and en-US language-profile capabilities for MedDeID",
+  "license": "AGPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stighellemans/meddeid-language-en.git"
+  },
+  "homepage": "https://stighellemans.github.io/meddeid.github.io/concepts/architecture/",
+  "bugs": {
+    "url": "https://github.com/stighellemans/meddeid-language-en/issues"
+  },
+  "keywords": ["de-identification", "clinical-nlp", "english", "united-kingdom", "united-states", "meddeid"],
+  "publishConfig": {"access": "public", "provenance": true},
+  "type": "module",
+  "engines": {"node": ">=20"},
+  "exports": {
+    "./subannotation/en-GB": "./js/subannotation-en-gb.js",
+    "./subannotation/en-US": "./js/subannotation-en-us.js"
+  },
+  "meddeid": {
+    "subannotationProfiles": [
+      {"selection": "en-GB", "module": "@meddeid/language-en/subannotation/en-GB"},
+      {"selection": "en-US", "module": "@meddeid/language-en/subannotation/en-US"}
+    ]
+  },
+  "files": [
+    "js/",
+    "src/meddeid_language_en/resources/",
+    "LICENSE",
+    "README.md",
+    "NOTICE"
+  ],
+  "scripts": {
+    "test": "node --test tests-js/*.test.js",
+    "prepublishOnly": "npm test"
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "contract_version": "meddeid.language-sources.v1",
+  "profile_id": "en-GB",
+  "adapter_version": "2",
+  "expected_minimum_counts": {
+    "first_names": 39000,
+    "family_names": 1000,
+    "streets": 140000,
+    "localities": 35000,
+    "postal_localities": 35000,
+    "postal_code_localities": 2700,
+    "hospitals": 7500,
+    "healthcare_institutions": 38000,
+    "professions": 23000,
+    "administrative_areas": 4
+  },
+  "required_category_regions": {
+    "first_names": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "streets": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "localities": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "hospitals": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ]
+  },
+  "sources": [
+    {
+      "source_id": "ons-baby-names-ew",
+      "source_sha256": "a866fe8791110d1476da7b9e7e680c48d752856aa8cee19d86c9d1788ca57514",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "Office for National Statistics",
+      "dataset": "Baby names in England and Wales from 1996 to 2025",
+      "release": "2025 birth registrations, released 2026-07-09",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996",
+      "retrieved_at": "2026-08-20",
+      "license": "OGL-3.0",
+      "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "geographic_scope": [
+        "England",
+        "Wales"
+      ],
+      "output_categories": [
+        "first_names"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesinenglandandwalesfrom1996/1996to2025/babynames1996to2025.xlsx",
+          "cache_filename": "ons-baby-names-1996-2025.xlsx",
+          "sha256": "bf7b10486ab20d0b32e4bc87385112f4555210f61e34eaac3574a0d8a658c0d4"
+        }
+      ]
+    },
+    {
+      "source_id": "nrs-baby-names",
+      "source_sha256": "d634775206d8fd88592156c9a8db43e4881078eb761480cc76857516d4857d2b",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "National Records of Scotland",
+      "dataset": "Babies' first names",
+      "release": "Babies First Names 2025, published 2026-05-26",
+      "url": "https://www.nrscotland.gov.uk/publications/babies-first-names-2025/",
+      "retrieved_at": "2026-08-20",
+      "license": "OGL-3.0",
+      "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "geographic_scope": [
+        "Scotland"
+      ],
+      "output_categories": [
+        "first_names"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://www.nrscotland.gov.uk/media/ynqlqdfk/all-names-given-to-babies-in-2025.xlsx",
+          "cache_filename": "nrs-baby-names-2025.xlsx",
+          "sha256": "602e4ed7ef8725b30d244b10bce56c13072d47da66fc909d7ddacb47e5516786"
+        }
+      ]
+    },
+    {
+      "source_id": "nisra-baby-names",
+      "source_sha256": "dd818c6dcc82db4c6a311f847d748e4c05332b8b7489af30bfce60ee0a58aed9",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "Northern Ireland Statistics and Research Agency",
+      "dataset": "Baby Names 2025 full name list",
+      "release": "1997–2025 workbook, published 2026-04-16",
+      "url": "https://www.nisra.gov.uk/publications/baby-names-2025",
+      "retrieved_at": "2026-08-20",
+      "license": "OGL-3.0",
+      "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "geographic_scope": [
+        "Northern Ireland"
+      ],
+      "output_categories": [
+        "first_names"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://www.nisra.gov.uk/files/nisra/documents/2026-04/Full_Name_List_NI_97_25.xlsx",
+          "cache_filename": "nisra-baby-names-1997-2025.xlsx",
+          "sha256": "e6f3058b2fd8de651da60d3aed71ca6b2d25e75e3a1040a22a85e9f217624625"
+        }
+      ]
+    },
+    {
+      "source_id": "dfe-school-census-names",
+      "source_sha256": "ab486aa221e44fa47c61959cc085f64d5ab0edd926b92ee0c1b1701d4a870b7e",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "Department for Education",
+      "dataset": "Top 1,000 forenames and surnames, Autumn 2014 School Census",
+      "release": "Autumn 2014 FOI release",
+      "url": "https://github.com/matt40k/Names",
+      "retrieved_at": "2026-08-20",
+      "license": "MIT mirror of DfE FOI response",
+      "attribution": "Department for Education Autumn 2014 School Census FOI response; redistribution mirror © 2015 Matt Smith under MIT.",
+      "geographic_scope": [
+        "England"
+      ],
+      "output_categories": [
+        "first_names",
+        "family_names"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://raw.githubusercontent.com/matt40k/Names/master/Forename_Autumn2014.csv",
+          "cache_filename": "dfe-forenames-2014.csv",
+          "sha256": "25a27de2eb65bb998aa8acc463894bbed67fb2f11b0ca8be32e34f0d363d94ca"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/matt40k/Names/master/Surname_Autumn2014.csv",
+          "cache_filename": "dfe-surnames-2014.csv",
+          "sha256": "c7e0c884c914992efb5c8ae7219114395d8700248b3706d31f3a8c30264b81ef"
+        }
+      ]
+    },
+    {
+      "source_id": "os-open-names",
+      "source_sha256": "73ba288c0c29846347955da94e4ca613f73390f944278f080fe38dbf6d47ac32",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "Ordnance Survey",
+      "dataset": "OS Open Names",
+      "release": "July 2026 publisher snapshot",
+      "url": "https://osdatahub.os.uk/downloads/open/OpenNames",
+      "retrieved_at": "2026-08-20",
+      "license": "OGL-3.0",
+      "attribution": "Contains OS data © Crown copyright and database right 2026.",
+      "geographic_scope": [
+        "England",
+        "Scotland",
+        "Wales"
+      ],
+      "output_categories": [
+        "streets",
+        "localities",
+        "postal_localities",
+        "hospitals",
+        "healthcare_institutions"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://api.os.uk/downloads/v1/products/OpenNames/downloads?area=GB&format=CSV&redirect",
+          "cache_filename": "os-open-names-2026-07.zip",
+          "sha256": "6175912f1a3be7fffe556b4621a8d0686f1ea145e20ca61ce2b115a75a9bd69f"
+        }
+      ]
+    },
+    {
+      "source_id": "codepoint-open",
+      "source_sha256": "e0ece8f544f716a4d0e9d95777d5892b5d502413926b1a6340ef31cf67966fbb",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "Ordnance Survey",
+      "dataset": "Code-Point Open",
+      "release": "August 2026 publisher snapshot",
+      "url": "https://osdatahub.os.uk/downloads/open/CodePointOpen",
+      "retrieved_at": "2026-08-20",
+      "license": "OGL-3.0",
+      "attribution": "Contains OS data © Crown copyright and database right 2026.",
+      "geographic_scope": [
+        "England",
+        "Scotland",
+        "Wales"
+      ],
+      "output_categories": [
+        "postal_code_localities"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://api.os.uk/downloads/v1/products/CodePointOpen/downloads?area=GB&format=CSV&redirect",
+          "cache_filename": "code-point-open-2026-08.zip",
+          "sha256": "fc266d063e4d8c27bd23ea8a65c6855162942cf6b9fc73c91d0930d442a0eefb"
+        }
+      ]
+    },
+    {
+      "source_id": "osni-open-gazetteer",
+      "source_sha256": "df7bdb3369e76acbf5403f908a088f41f3130dbe2af970107e7ad4ec42ad8ec6",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "Land & Property Services / OSNI",
+      "dataset": "OSNI Open Data Gazetteer Streetnames and Place Names",
+      "release": "publisher files dated 2015; catalogue snapshot retrieved 2026-08-20",
+      "url": "https://www.data.gov.uk/dataset/c5d58af7-85c9-4d03-9cec-b306475c0a56/osni-open-data-gazetteer-streetnames",
+      "retrieved_at": "2026-08-20",
+      "license": "OGL-3.0",
+      "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "geographic_scope": [
+        "Northern Ireland"
+      ],
+      "output_categories": [
+        "streets",
+        "localities",
+        "postal_localities"
+      ],
+      "fetch": false,
+      "files": [
+        {
+          "url": "https://admin.opendatani.gov.uk/dataset/8b3953f1-da42-4d98-b2b9-311e7c9c8075/resource/84b246cf-acf0-4313-b6dc-5995f8e3f122/download/osni_open_data_-_gazetteer_-_streetnames.csv",
+          "cache_filename": "osni-streetnames-2015.csv",
+          "sha256": "90843e27a942a503b298d02c0e48ef00764549a031729082fb307e7b3d3bbd07"
+        },
+        {
+          "url": "https://admin.opendatani.gov.uk/dataset/d27903f1-15e6-4c07-8564-ddc655e9c549/resource/411c6ea5-c079-43aa-bd62-438423d070cc/download/osni_open_data_-_gazetteer_-_place_names.csv",
+          "cache_filename": "osni-place-names-2015.csv",
+          "sha256": "58cb0102ea7db5d63cdd457aafb5cabd377236835d584d90d07ab32e1ed2adbf"
+        }
+      ]
+    },
+    {
+      "source_id": "nhs-ods",
+      "source_sha256": "1edf41ca5d5e22702b83fa6227abf1f06aae7d0dc74643af3ad4d05533f1b601",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "NHS England",
+      "dataset": "Organisation Data Service public CSV reports",
+      "release": "ETR, ETS, WLHB, WLHBSite, and NIOrg snapshot 2026-08-20",
+      "url": "https://digital.nhs.uk/services/organisation-data-service/data-search-and-export/csv-downloads",
+      "retrieved_at": "2026-08-20",
+      "license": "OGL-3.0",
+      "attribution": "Contains NHS England data licensed under the Open Government Licence v3.0.",
+      "geographic_scope": [
+        "England",
+        "Wales",
+        "Northern Ireland"
+      ],
+      "output_categories": [
+        "hospitals",
+        "healthcare_institutions"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://www.odsdatasearchandexport.nhs.uk/api/getReport?report=etr",
+          "cache_filename": "nhs-ods-etr-2026-08-20.csv",
+          "sha256": "b102f28c14432ab9f5ce11c9430abcefd8ab5f7c098b27c06c724bbb9e9b7aff"
+        },
+        {
+          "url": "https://www.odsdatasearchandexport.nhs.uk/api/getReport?report=ets",
+          "cache_filename": "nhs-ods-ets-2026-08-20.csv",
+          "sha256": "bb63ffbc218d0e37258bc3b318de503671cc834a258dad0895291be933aeefe7"
+        },
+        {
+          "url": "https://www.odsdatasearchandexport.nhs.uk/api/getReport?report=wlhb",
+          "cache_filename": "nhs-ods-wlhb-2026-08-20.csv",
+          "sha256": "cc284fd0aebd9f5786815a349f431d7ff40df38f372867e457256fd01ac5de87"
+        },
+        {
+          "url": "https://www.odsdatasearchandexport.nhs.uk/api/getReport?report=wlhbsite",
+          "cache_filename": "nhs-ods-wlhbsite-2026-08-20.csv",
+          "sha256": "25a15eba89e7090d666f7f025d630846e6a8ecb77b7239d28c6e76a35b5065d2"
+        },
+        {
+          "url": "https://www.odsdatasearchandexport.nhs.uk/api/getReport?report=niorg",
+          "cache_filename": "nhs-ods-niorg-2026-08-20.csv",
+          "sha256": "a51085437a2c552adc4bb397801eb90a97da19d35f88814e903fda4ee4224ba0"
+        }
+      ]
+    },
+    {
+      "source_id": "devolved-health-directories",
+      "source_sha256": "9b02999c74ee42a5fed863ad76d28a2c4c3b4b3975ea8195ab9652d1e2039bdc",
+      "source_hash_kind": "canonical curated snapshot",
+      "publisher": "NHS Scotland, NHS Wales, and Department of Health Northern Ireland",
+      "dataset": "Official health board, trust, and hospital directory token curation",
+      "release": "official directory token snapshot 2026-08-20",
+      "url": "https://www.health-ni.gov.uk/articles/inpatient-and-day-case-activity",
+      "retrieved_at": "2026-08-20",
+      "license": "OGL-3.0",
+      "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "geographic_scope": [
+        "Scotland",
+        "Wales",
+        "Northern Ireland"
+      ],
+      "output_categories": [
+        "hospitals",
+        "healthcare_institutions"
+      ],
+      "fetch": false
+    },
+    {
+      "source_id": "ons-soc-2020",
+      "source_sha256": "5fb91e12a0e2978075aecb28b84dc40c38430824097b0a94991b3e7b05dd4537",
+      "source_hash_kind": "ordered raw file hash set",
+      "publisher": "Office for National Statistics",
+      "dataset": "SOC 2020 Volume 2 coding index",
+      "release": "coding index file dated 2025-12-03; page updated 2026-05-05",
+      "url": "https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc/soc2020",
+      "retrieved_at": "2026-08-20",
+      "license": "OGL-3.0",
+      "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+      "geographic_scope": [
+        "United Kingdom"
+      ],
+      "output_categories": [
+        "professions"
+      ],
+      "fetch": true,
+      "files": [
+        {
+          "url": "https://www.ons.gov.uk/file?uri=%2Fmethodology%2Fclassificationsandstandards%2Fstandardoccupationalclassificationsoc%2Fsoc2020%2Fsoc2020volume2codingrulesandconventions%2Fsoc2020volume2thecodingindexzip03122025.zip",
+          "cache_filename": "ons-soc-2020-coding-index-2025-12-03.zip",
+          "sha256": "daf233f724b3164ce194196231e66ebf7dfc992fb6830e8b908d03d720b3b452"
+        }
+      ]
+    },
+    {
+      "source_id": "en-gb-rules",
+      "source_sha256": "ba451ab94d55f3218e02d9630d64151488c548d38f5b0f2ceef20e643510d713",
+      "source_hash_kind": "canonical curated snapshot",
+      "publisher": "MedDeID",
+      "dataset": "Locale rule and terminology curation",
+      "release": "1",
+      "url": "https://github.com/stighellemans/meddeid-language-en",
+      "retrieved_at": "2026-08-20",
+      "license": "AGPL-3.0-only",
+      "attribution": "MedDeID English locale rule curation.",
+      "geographic_scope": [
+        "United Kingdom"
+      ],
+      "output_categories": [
+        "prefixes",
+        "name_suffixes",
+        "surname_particles",
+        "credentials",
+        "departments",
+        "administrative_areas",
+        "other_organisations"
+      ],
+      "fetch": false
+    }
+  ],
+  "excluded_sources": [
+    {
+      "dataset": "Northern Ireland Central Postcode Directory and Pointer",
+      "reason": "Separate LPS/Royal Mail licensing prevents general redistribution in this package."
+    },
+    {
+      "dataset": "UK BMD processed names",
+      "reason": "The available processed dataset is restricted to non-commercial research use."
+    },
+    {
+      "dataset": "complete real identities or person-level records",
+      "reason": "The pack ingests only aggregate name tokens and public geographic or institutional data."
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "category_region_coverage": {
+    "administrative_areas": [
+      "United Kingdom"
+    ],
+    "credentials": [
+      "United Kingdom"
+    ],
+    "departments": [
+      "United Kingdom"
+    ],
+    "family_names": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "United Kingdom",
+      "Wales"
+    ],
+    "first_names": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "United Kingdom",
+      "Wales"
+    ],
+    "healthcare_institutions": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "hospitals": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "localities": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "name_suffixes": [
+      "United Kingdom"
+    ],
+    "other_organisations": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "postal_code_localities": [
+      "England",
+      "Scotland",
+      "Wales"
+    ],
+    "postal_localities": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "prefixes": [
+      "United Kingdom"
+    ],
+    "professions": [
+      "United Kingdom"
+    ],
+    "streets": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "surname_particles": [
+      "Scotland",
+      "United Kingdom"
+    ]
+  },
+  "contract_version": "meddeid.language-resource-audit.v1",
+  "count_regressions": {},
+  "counts": {
+    "administrative_areas": 4,
+    "credentials": 9,
+    "departments": 6,
+    "family_names": 1000,
+    "first_names": 39712,
+    "healthcare_institutions": 38459,
+    "hospitals": 7622,
+    "localities": 35730,
+    "name_suffixes": 4,
+    "other_organisations": 4,
+    "postal_code_localities": 2755,
+    "postal_localities": 35728,
+    "prefixes": 9,
+    "professions": 23982,
+    "streets": 140638,
+    "surname_particles": 5
+  },
+  "lookups_sha256": "adc32237486ac62b8661ef3b81547d6c0645fbde0ba0c742b8c6a846f6ed60a0",
+  "malformed_records": [],
+  "missing_category_regions": {},
+  "passed": true,
+  "problems": [],
+  "profile_id": "en-GB",
+  "records": 325667,
+  "regions": [
+    "England",
+    "Northern Ireland",
+    "Scotland",
+    "United Kingdom",
+    "Wales"
+  ],
+  "semantic_collisions": {
+    "count": 44361,
+    "examples": {
+      "\"kells connor\"": [
+        "localities",
+        "postal_localities"
+      ],
+      "(hy) gu medicine st michael's hospital hayle": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "10 hammersmith broadway clinic": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "56 dean street clinic (epact)": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "a": [
+        "first_names",
+        "professions"
+      ],
+      "a & e clinic": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "a & e victoria hospital": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "a&e - ealing hospital nhs trust": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "a&e - ealing hospital nhs trust prescriber": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "a&e liaison - rochdale infirmary": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "a&e liaison - royal oldham hospital": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "a&e liaison - tameside general hospital": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "a&e west middlesex hospital": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "a' chill": [
+        "localities",
+        "postal_localities"
+      ],
+      "a' chrìon làraich": [
+        "localities",
+        "postal_localities"
+      ],
+      "aaron's hill": [
+        "localities",
+        "postal_localities",
+        "streets"
+      ],
+      "ab kettleby": [
+        "localities",
+        "postal_localities"
+      ],
+      "ab lench": [
+        "localities",
+        "postal_localities"
+      ],
+      "abaty cwm-hir": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbas": [
+        "family_names",
+        "first_names"
+      ],
+      "abbas combe": [
+        "localities",
+        "postal_localities"
+      ],
+      "abberley": [
+        "localities",
+        "postal_localities"
+      ],
+      "abberton": [
+        "localities",
+        "postal_localities"
+      ],
+      "abberwick": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbess roding": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbey": [
+        "first_names",
+        "localities",
+        "postal_localities"
+      ],
+      "abbey court": [
+        "healthcare_institutions",
+        "streets"
+      ],
+      "abbey dore": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbey end": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbey field medical centre": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbey fields": [
+        "localities",
+        "postal_localities",
+        "streets"
+      ],
+      "abbey green": [
+        "localities",
+        "postal_localities",
+        "streets"
+      ],
+      "abbey hey clinic": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbey hulton": [
+        "healthcare_institutions",
+        "localities",
+        "postal_localities"
+      ],
+      "abbey hulton clinic": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbey hulton health centre": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbey meads": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbey medical centre": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbey parks": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbey road": [
+        "healthcare_institutions",
+        "streets"
+      ],
+      "abbey road clinic": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbey st bathans": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbey view": [
+        "healthcare_institutions",
+        "streets"
+      ],
+      "abbey view medical centre": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbey village": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbey wood": [
+        "healthcare_institutions",
+        "localities",
+        "postal_localities"
+      ],
+      "abbeydale": [
+        "localities",
+        "postal_localities",
+        "streets"
+      ],
+      "abbeydale park": [
+        "localities",
+        "postal_localities",
+        "streets"
+      ],
+      "abbeyhill": [
+        "localities",
+        "postal_localities",
+        "streets"
+      ],
+      "abbeystead": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbeytown": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbeywood clinic": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbot's mead": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbot's salford": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotrule": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbots bickington": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbots bromley": [
+        "healthcare_institutions",
+        "localities",
+        "postal_localities"
+      ],
+      "abbots langley": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbots leigh": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbots morton": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbots ripton": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbots worthy": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotsbury": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotsford": [
+        "localities",
+        "postal_localities",
+        "streets"
+      ],
+      "abbotsham": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotside": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotskerswell": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotsley": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotsmead": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotstone": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotswold medical centre": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "abbotswood": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotts ann": [
+        "localities",
+        "postal_localities"
+      ],
+      "abbotts barton": [
+        "localities",
+        "postal_localities"
+      ],
+      "abcott": [
+        "localities",
+        "postal_localities"
+      ],
+      "abdi": [
+        "family_names",
+        "first_names"
+      ],
+      "abdon": [
+        "localities",
+        "postal_localities"
+      ],
+      "abdullah": [
+        "family_names",
+        "first_names"
+      ],
+      "abdullahi": [
+        "family_names",
+        "first_names"
+      ],
+      "abenhall": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber": [
+        "first_names",
+        "localities",
+        "postal_localities"
+      ],
+      "aber eiddy": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber pwll": [
+        "localities",
+        "postal_localities",
+        "streets"
+      ],
+      "aber rhaeadr": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber-arad": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber-banc": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber-clydach": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber-cywarch": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber-giâr": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber-miwl": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber-nant": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber-oer": [
+        "localities",
+        "postal_localities"
+      ],
+      "aber-tafol": [
+        "localities",
+        "postal_localities"
+      ],
+      "aberaeron": [
+        "localities",
+        "postal_localities"
+      ],
+      "aberaeron hospital": [
+        "healthcare_institutions",
+        "hospitals"
+      ],
+      "aberaman": [
+        "localities",
+        "postal_localities"
+      ],
+      "aberangell": [
+        "localities",
+        "postal_localities"
+      ],
+      "aberargie": [
+        "localities",
+        "postal_localities"
+      ],
+      "aberarth": [
+        "localities",
+        "postal_localities"
+      ],
+      "aberavon": [
+        "localities",
+        "postal_localities"
+      ]
+    }
+  },
+  "source_lock_problems": [],
+  "source_sha256": {
+    "codepoint-open": "e0ece8f544f716a4d0e9d95777d5892b5d502413926b1a6340ef31cf67966fbb",
+    "devolved-health-directories": "9b02999c74ee42a5fed863ad76d28a2c4c3b4b3975ea8195ab9652d1e2039bdc",
+    "dfe-school-census-names": "ab486aa221e44fa47c61959cc085f64d5ab0edd926b92ee0c1b1701d4a870b7e",
+    "en-gb-rules": "ba451ab94d55f3218e02d9630d64151488c548d38f5b0f2ceef20e643510d713",
+    "nhs-ods": "1edf41ca5d5e22702b83fa6227abf1f06aae7d0dc74643af3ad4d05533f1b601",
+    "nisra-baby-names": "dd818c6dcc82db4c6a311f847d748e4c05332b8b7489af30bfce60ee0a58aed9",
+    "nrs-baby-names": "d634775206d8fd88592156c9a8db43e4881078eb761480cc76857516d4857d2b",
+    "ons-baby-names-ew": "a866fe8791110d1476da7b9e7e680c48d752856aa8cee19d86c9d1788ca57514",
+    "ons-soc-2020": "5fb91e12a0e2978075aecb28b84dc40c38430824097b0a94991b3e7b05dd4537",
+    "os-open-names": "73ba288c0c29846347955da94e4ca613f73390f944278f080fe38dbf6d47ac32",
+    "osni-open-gazetteer": "df7bdb3369e76acbf5403f908a088f41f3130dbe2af970107e7ad4ec42ad8ec6"
+  },
+  "sources": [
+    "codepoint-open",
+    "devolved-health-directories",
+    "dfe-school-census-names",
+    "en-gb-rules",
+    "nhs-ods",
+    "nisra-baby-names",
+    "nrs-baby-names",
+    "ons-baby-names-ew",
+    "ons-soc-2020",
+    "os-open-names",
+    "osni-open-gazetteer"
+  ],
+  "sources_lock_logical_sha256": "ec431548738eb9b626b2663237366a0eae92549734b6705edd13759caa6080bb",
+  "ssa_metadata_missing": 0
+}
