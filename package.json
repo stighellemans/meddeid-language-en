@@ -1,13 +1,13 @@
 {
   "name": "@meddeid/language-en",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "English en-GB and en-US language-profile capabilities for MedDeID",
   "license": "AGPL-3.0-only",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stighellemans/meddeid-language-en.git"
   },
-  "homepage": "https://stighellemans.github.io/meddeid.github.io/concepts/architecture/",
+  "homepage": "https://stighellemans.github.io/meddeid/concepts/architecture/",
   "bugs": {
     "url": "https://github.com/stighellemans/meddeid-language-en/issues"
   },

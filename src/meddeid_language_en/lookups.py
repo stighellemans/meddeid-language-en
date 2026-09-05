@@ -60,7 +60,7 @@ def lookup_values(profile_id: str, category: str) -> tuple[str, ...]:
 def lookup_source(profile_id: str, category: str | None = None) -> str:
     profile_id = normalize_profile_id(profile_id)
     if category is None:
-        return f"meddeid-language-en 0.2.0 {profile_id} locked resources"
+        return f"meddeid-language-en 0.2.1 {profile_id} locked resources"
     source_ids = sorted(
         {
             source_id
@@ -68,7 +68,7 @@ def lookup_source(profile_id: str, category: str | None = None) -> str:
             for source_id in record["source_ids"]
         }
     )
-    return f"meddeid-language-en 0.2.0 {profile_id}: {', '.join(source_ids)}"
+    return f"meddeid-language-en 0.2.1 {profile_id}: {', '.join(source_ids)}"
 
 
 def _logical_hash(records: tuple[dict[str, Any], ...]) -> str:
@@ -108,7 +108,7 @@ def lookup_manifest(profile_id: str) -> dict[str, Any]:
     return {
         "manifest_version": "meddeid.language-resources.v2",
         "package": "meddeid-language-en",
-        "package_version": "0.2.0",
+        "package_version": "0.2.1",
         "profile_id": profile_id,
         "lookups_sha256": hashlib.sha256(content).hexdigest(),
         "resources": resources,

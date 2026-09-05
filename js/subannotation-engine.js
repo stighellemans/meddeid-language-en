@@ -918,7 +918,7 @@ export function createSubannotationProfile(profileId) {
     rules,
     resourceManifest: Object.freeze({
       manifest_version: 'meddeid.language-resources.v2',
-      package: 'meddeid-language-en', package_version: '0.2.0',
+      package: 'meddeid-language-en', package_version: '0.2.1',
       profile_id: profileId,
       lookups_sha256: crypto.createHash('sha256').update(fs.readFileSync(lookupPath)).digest('hex'),
       counts: Object.freeze(counts),

@@ -1,5 +1,12 @@
 # Changelog
 
+## [Unreleased]
+
+## [0.2.1] - 2026-09-05
+
+- Enabled npm trusted publishing for the coordinated MedDeID suite 0.2.0
+  release while preserving the 0.2 language-profile contract.
+
 ## [0.2.0] - 2026-08-27
 
 - Infer leading municipality components in non-healthcare organization names
