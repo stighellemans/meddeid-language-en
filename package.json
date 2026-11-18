@@ -1,6 +1,6 @@
 {
   "name": "@meddeid/language-en",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "English en-GB and en-US language-profile capabilities for MedDeID",
   "license": "AGPL-3.0-only",
   "repository": {
