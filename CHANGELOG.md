@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+- Added deterministic bracketed name aliases for `en-GB` and `en-US`, using each locale’s existing name resources.
+- Preserved recognized titles, initials, surname particles, suffixes and credentials. Requires core 0.2.2.
+
 ## [0.2.1] - 2026-09-05
 
 - Enabled npm trusted publishing for the coordinated MedDeID suite 0.2.0

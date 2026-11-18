@@ -11,6 +11,7 @@ from .dates import (
     pseudonymize_date_text,
     render_parsed_date,
 )
+from .name_pseudonyms import name_replacement, pseudonymize_name_text
 from .lookups import (
     lookup_categories,
     lookup_manifest,
@@ -28,6 +29,8 @@ from .profiles import EN_GB, EN_US, LanguageProfile, get_profile
 
 __all__ = [
     "LanguageProfile",
+    "name_replacement",
+    "pseudonymize_name_text",
     "EN_GB",
     "EN_US",
     "ParsedDate",
@@ -52,4 +55,4 @@ __all__ = [
     "is_approved_synthetic_phone",
 ]
 
-__version__ = "0.2.1"
+__version__ = "0.2.2"
