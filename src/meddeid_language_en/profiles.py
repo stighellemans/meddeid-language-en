@@ -8,7 +8,7 @@ from meddeid_core.language import LanguageProfile
 
 from .capabilities import capability_manifest
 from .dates import birth_date_variants, date_replacement
-from .name_pseudonyms import name_replacement
+from .name_pseudonyms import name_replacement, protect_boundaries
 from .lookups import lookup_categories, lookup_manifest, lookup_values
 from .postprocess import post_process_spans
 from .resources import normalize_profile_id
@@ -23,6 +23,7 @@ def _profile(profile_id: str) -> LanguageProfile:
         lookup_values_provider=partial(lookup_values, profile_id),
         resource_manifest_provider=partial(lookup_manifest, profile_id),
         capability_manifest_provider=partial(capability_manifest, profile_id),
+        name_boundary_provider=partial(protect_boundaries, profile_id=profile_id),
         name_replacement_provider=partial(name_replacement, profile_id=profile_id),
         date_replacement_provider=partial(date_replacement, profile_id=profile_id),
         birth_date_variants_provider=partial(

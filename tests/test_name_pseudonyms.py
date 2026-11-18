@@ -69,3 +69,21 @@ def test_english_titles_suffixes_and_credentials(profile):
 
 def test_locales_select_their_own_pinned_resources():
     assert alias("Mark Peters", "en-GB") != alias("Mark Peters", "en-US")
+
+
+@pytest.mark.parametrize("profile", PROFILES)
+def test_shared_components_and_initials(profile):
+    render = lambda value: alias(value, profile)[1:-1]
+    marc, peters = render("Marc Peters").split()
+    middle = render("Marc Jan Peters").split()[1]
+    assert render("Marc Jacobs").split()[0] == render("Marc") == marc
+    assert render("Peters") == peters
+    assert render("Marie Peters").split()[-1] == peters
+    assert render("Marc P.") == f"{marc} {peters[0]}."
+    assert render("M. Peters") == f"{marc[0]}. {peters}"
+    assert render("Marc J. Peters") == f"{marc} {middle[0]}. {peters}"
+    assert render("Marc Jan") == f"{marc} {middle}"
+    assert render("Peters, Marc Jan") == f"{peters}, {marc} {middle}"
+    assert render("Dr. Marc P.") == f"Dr. {marc} {peters[0]}."
+    assert render("M.J. Peters") == f"{marc[0]}.{middle[0]}. {peters}"
+    assert render("Jean-Luc Peters").split()[0] == render("Jean") + "-" + render("Luc")
