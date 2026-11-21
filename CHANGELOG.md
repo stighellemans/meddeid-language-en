@@ -1,9 +1,11 @@
 # Changelog
 
-## [Unreleased]
+## [0.2.4] - 2026-11-21
+
+- Render event dates and clinical ages independently with the selected language profile.
 
 - Added deterministic bracketed name aliases for `en-GB` and `en-US`, using each locale’s existing name resources.
-- Preserved recognized titles, initials, surname particles, suffixes and credentials. Requires core 0.2.2.
+- Preserved recognized titles, initials, surname particles, suffixes and credentials. Requires core 0.2.4.
 
 ## [0.2.1] - 2026-09-05
 

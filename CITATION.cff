@@ -3,8 +3,8 @@ message: "If you use the MedDeID English language profiles, cite this software a
 title: "MedDeID English language profiles"
 abstract: "English language and en-GB/en-US locale capabilities for MedDeID."
 type: software
-version: "0.2.1"
-date-released: 2026-09-05
+version: "0.2.4"
+date-released: 2026-11-21
 authors:
   - family-names: Hellemans
     given-names: Stig
